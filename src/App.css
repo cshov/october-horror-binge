@@ -6,8 +6,13 @@
 
 .App-logo {
   height: 200px;
-  /*height: 30vmin;*/
   pointer-events: none;
+}
+
+@media only screen and (max-width: 800px) {
+  .App-logo {
+    height: 100px;
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -26,8 +31,6 @@
   justify-content: center;
   /*font-size: calc(10px + 2vmin);*/
   color: white;
-
-
 }
 
 h1 {

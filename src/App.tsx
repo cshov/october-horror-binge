@@ -3,13 +3,11 @@ import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom';
 import logo from './pennywise.svg';
 import './App.css';
 import MovieLine from './component/MovieLine';
-import { getMovies, getMovieTitles } from './services/movies-query';
+import { getMovies } from './services/movies-query';
 import {Movie} from "./models/movie-models";
 
 function App() {
-
     const movies: Movie[] = getMovies();
-    const movieTitles: string[] = getMovieTitles();
 
   return (
     <div className="App">
@@ -27,17 +25,10 @@ function App() {
         {/*</a>*/}
       </header>
         <div>
-            {/*<table>*/}
-                {movies.map(movie => (
-                    // <p>{movieTitle}</p>
-
-                    <MovieLine movieObject={movie} />
-
-                ))}
-            {/*</table>*/}
+            {movies.map(movie => (
+                <MovieLine movieObject={movie} />
+            ))}
         </div>
-
-
     </div>
   );
 }
