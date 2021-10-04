@@ -11,7 +11,10 @@
 }
 
 .line div.year {
-    width: 100px;
+    width: 60px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 6px;
 }
 
 .line div.name {
@@ -22,6 +25,7 @@
 
 .line div.rating {
     width: 150px;
+    height: 30px;
 }
 
 @media only screen and (max-width: 800px) {
@@ -38,13 +42,14 @@
 
     .line div.name {
         width: 100%;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
         text-align: center;
     }
 
     .line div.rating {
         flex: 1;
         /*width: 100%;*/
+        padding-bottom: 10px;
         text-align: center;
         margin: 0 auto;
     }
