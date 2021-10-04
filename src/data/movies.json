@@ -1,0 +1,144 @@
+[
+  {
+    "name": "Reanimator",
+    "year": 1985,
+    "rating": 4.5,
+    "imdbId": "tt0089885",
+    "notes": "",
+    "series": "Reanimator",
+    "firstTimeView": false
+  },
+  {
+    "name": "Bride of Reanimator",
+    "year": 1990,
+    "rating": 4.5,
+    "imdbId": "tt0099180",
+    "notes": "",
+    "series": "Reanimator",
+    "firstTimeView": false
+  },
+  {
+    "name": "Beyond Reanimator",
+    "year": 2003,
+    "rating": 4.5,
+    "imdbId": "tt0222812",
+    "notes": "",
+    "series": "Reanimator",
+    "firstTimeView": false
+  },
+
+  {
+    "name": "A Nightmare on Elm Street",
+    "year": 1984,
+    "rating": 4,
+    "imdbId": "tt0087800",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+
+  },
+  {
+    "name": "A Nightmare on Elm Street 2: Freddy’s Revenge",
+    "year": 1985,
+    "rating": 3,
+    "imdbId": "tt0089686",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+
+  },
+  {
+    "name": "A Nightmare on Elm Street 3: Dream Warriors",
+    "year": 1987,
+    "rating": 4.5,
+    "imdbId": "tt0093629",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+
+  },
+  {
+    "name": "A Nightmare on Elm Street 4: The Dream Master",
+    "year": 1988,
+    "rating": 3,
+    "imdbId": "tt0095742",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+  },
+  {
+    "name": "A Nightmare on Elm Street 5: The Dream Child",
+    "year": 1989,
+    "rating": 2.5,
+    "imdbId": "tt0097981",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+  },
+  {
+    "name": "Freddy's Dead: The Final Nightmare",
+    "year": 1991,
+    "rating": 3.5,
+    "imdbId": "tt0101917",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+  },
+  {
+    "name": "Wes Craven's New Nightmare",
+    "year": 1994,
+    "rating": 4,
+    "imdbId": "tt0111686",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+  },
+  {
+    "name": "Freddy vs Jason",
+    "year": 2003,
+    "rating": 4,
+    "imdbId": "tt0329101",
+    "notes": null,
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+  },
+  {
+    "name": "Nightmare On Elm Street",
+    "year": 2010,
+    "rating": 3,
+    "imdbId": "tt1179056",
+    "notes": "Remake",
+    "series": "Nightmare on Elm Street",
+    "firstTimeView": false
+  },
+  {
+    "name": "Summer of 84",
+    "year": 2018,
+    "rating": 4,
+    "imdbId": "tt5774450",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false
+  },
+  {
+    "name": "Halloween",
+    "year": 1978,
+    "rating": 4,
+    "imdbId": "tt0077651",
+    "notes": null,
+    "series": "Halloween",
+    "firstTimeView": false
+  },
+  {
+    "name": "Day of the Dead",
+    "year": 1985,
+    "rating": 4,
+    "imdbId": "tt0088993",
+    "notes": null,
+    "series": "* of the Dead",
+    "firstTimeView": false
+  }
+
+
+
+]

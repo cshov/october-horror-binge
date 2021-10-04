@@ -2,8 +2,15 @@ import React from 'react';
 import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom';
 import logo from './pennywise.svg';
 import './App.css';
+import MovieLine from './component/MovieLine';
+import { getMovies, getMovieTitles } from './services/movies-query';
+import {Movie} from "./models/movie-models";
 
 function App() {
+
+    const movies: Movie[] = getMovies();
+    const movieTitles: string[] = getMovieTitles();
+
   return (
     <div className="App">
       <header className="App-header">
@@ -20,9 +27,14 @@ function App() {
         {/*</a>*/}
       </header>
         <div>
-            <p>
-                It's time to watch some fucking horror movies.
-            </p>
+            {/*<table>*/}
+                {movies.map(movie => (
+                    // <p>{movieTitle}</p>
+
+                    <MovieLine movieObject={movie} />
+
+                ))}
+            {/*</table>*/}
         </div>
 
 
