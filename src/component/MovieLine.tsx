@@ -1,7 +1,5 @@
 import React from "react";
 import './MovieLine.css';
-import fullStar from './pennywiseFull.png';
-import halfStar from './pennywiseHalf.png';
 import {Movie} from "../models/movie-models";
 
 function MovieLine(props: { movieObject: Movie; }) {

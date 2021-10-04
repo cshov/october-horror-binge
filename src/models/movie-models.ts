@@ -6,4 +6,5 @@ export type Movie = {
     notes?: string | undefined | null;
     series?: string | undefined | null;
     firstTimeView?: any;
+    dateWatched: number;
 };

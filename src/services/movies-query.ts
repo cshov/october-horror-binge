@@ -10,3 +10,7 @@ export function getMovieTitles(): string[] {
     return movieTitles.map((movie: Movie) => movie.name);
 }
 
+export function getMoviesForDay(dayToCheck: number): Movie[] {
+    return Movies.filter(movie => movie.dateWatched === dayToCheck);
+}
+

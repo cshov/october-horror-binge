@@ -46,6 +46,25 @@ p {
   color: #61dafb;
 }
 
+.navMenu {
+  display: flex;
+  margin: 8px 0 32px;
+  background-color: #CCC;
+}
+
+.navMenu a {
+  flex: 1;
+  /*margin: 4px;*/
+  padding: 10px;
+  font-weight: bold;
+  background: #333;
+  color: #CCC;
+}
+
+.navMenu a:last-child {
+  /*margin-right: 4px;*/
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

@@ -6,7 +6,8 @@
     "imdbId": "tt0089885",
     "notes": "",
     "series": "Reanimator",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 1
   },
   {
     "name": "Bride of Reanimator",
@@ -15,7 +16,8 @@
     "imdbId": "tt0099180",
     "notes": "",
     "series": "Reanimator",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 1
   },
   {
     "name": "Beyond Reanimator",
@@ -24,7 +26,8 @@
     "imdbId": "tt0222812",
     "notes": "",
     "series": "Reanimator",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 1
   },
 
   {
@@ -34,7 +37,8 @@
     "imdbId": "tt0087800",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 1
 
   },
   {
@@ -44,7 +48,8 @@
     "imdbId": "tt0089686",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 1
 
   },
   {
@@ -54,7 +59,8 @@
     "imdbId": "tt0093629",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 2
 
   },
   {
@@ -64,7 +70,8 @@
     "imdbId": "tt0095742",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 2
   },
   {
     "name": "A Nightmare on Elm Street 5: The Dream Child",
@@ -73,7 +80,8 @@
     "imdbId": "tt0097981",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 2
   },
   {
     "name": "Freddy's Dead: The Final Nightmare",
@@ -82,7 +90,8 @@
     "imdbId": "tt0101917",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 2
   },
   {
     "name": "Wes Craven's New Nightmare",
@@ -91,7 +100,8 @@
     "imdbId": "tt0111686",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 2
   },
   {
     "name": "Freddy vs Jason",
@@ -100,7 +110,8 @@
     "imdbId": "tt0329101",
     "notes": null,
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 2
   },
   {
     "name": "Nightmare On Elm Street",
@@ -109,7 +120,8 @@
     "imdbId": "tt1179056",
     "notes": "Remake",
     "series": "Nightmare on Elm Street",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 2
   },
   {
     "name": "Summer of 84",
@@ -118,7 +130,8 @@
     "imdbId": "tt5774450",
     "notes": null,
     "series": null,
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 3
   },
   {
     "name": "Halloween",
@@ -127,7 +140,8 @@
     "imdbId": "tt0077651",
     "notes": null,
     "series": "Halloween",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 3
   },
   {
     "name": "Day of the Dead",
@@ -136,7 +150,8 @@
     "imdbId": "tt0088993",
     "notes": null,
     "series": "* of the Dead",
-    "firstTimeView": false
+    "firstTimeView": false,
+    "dateWatched": 3
   }
 
 
