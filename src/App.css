@@ -9,7 +9,8 @@
   pointer-events: none;
 }
 
-@media only screen and (max-width: 800px) {
+
+@media only screen and (max-width: 600px) {
   .App-logo {
     height: 100px;
   }
