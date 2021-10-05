@@ -152,8 +152,71 @@
     "series": "* of the Dead",
     "firstTimeView": false,
     "dateWatched": 3
+  },
+
+
+
+
+
+
+  {
+    "name": "Phantasm",
+    "year": 1979,
+    "rating": 4,
+    "imdbId": "tt0079714",
+    "notes": "Last Drive In with Joe Bob Briggs",
+    "series": "Phantasm",
+    "firstTimeView": false,
+    "dateWatched": 4
+  },
+  {
+    "name": "Phantasm 2",
+    "year": 1988,
+    "rating": 3,
+    "imdbId": "tt0095863",
+    "notes": null,
+    "series": "Phantasm",
+    "firstTimeView": true,
+    "dateWatched": 4
+  },
+  {
+    "name": "Phantasm 3",
+    "year": 1994,
+    "rating": 3.5,
+    "imdbId": "tt0110823",
+    "notes": "Last Drive In with Joe Bob Briggs",
+    "series": "Phantasm",
+    "firstTimeView": false,
+    "dateWatched": 4
+  },
+  {
+    "name": "Phantasm IV: Oblivion",
+    "year": 1998,
+    "rating": 4,
+    "imdbId": "tt0138703",
+    "notes": "Last Drive In with Joe Bob Briggs",
+    "series": "Phantasm",
+    "firstTimeView": false,
+    "dateWatched": 4
+  },
+  {
+    "name": "Phantasm Ravager",
+    "year": 2016,
+    "rating": 3.5,
+    "imdbId": "tt3627704",
+    "notes": "Last Drive In with Joe Bob Briggs",
+    "series": "Phantasm",
+    "firstTimeView": false,
+    "dateWatched": 5
+  },
+  {
+    "name": "The Stuff",
+    "year": 1985,
+    "rating": 4,
+    "imdbId": "tt0090094",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 5
   }
-
-
-
 ]
