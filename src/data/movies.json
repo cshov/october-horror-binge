@@ -218,5 +218,25 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 5
+  },
+  {
+    "name": "Scream",
+    "year": 1996,
+    "rating": 4.5,
+    "imdbId": "tt0117571",
+    "notes": null,
+    "series": "Scream",
+    "firstTimeView": false,
+    "dateWatched": 5
+  },
+  {
+    "name": "Scream 2",
+    "year": 1997,
+    "rating": 4.5,
+    "imdbId": "tt0120082",
+    "notes": null,
+    "series": "Scream",
+    "firstTimeView": false,
+    "dateWatched": 5
   }
 ]
