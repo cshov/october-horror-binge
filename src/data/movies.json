@@ -302,5 +302,35 @@
     "series": "Universal Monsters",
     "firstTimeView": false,
     "dateWatched": 7
+  },
+  {
+    "name": "The Mummy",
+    "year": 1932,
+    "rating": 3.5,
+    "imdbId": "tt0023245",
+    "notes": null,
+    "series": "Universal Monsters",
+    "firstTimeView": false,
+    "dateWatched": 8
+  },
+  {
+    "name": "The Invisible Man",
+    "year": 1933,
+    "rating": 4,
+    "imdbId": "tt0024184",
+    "notes": null,
+    "series": "Universal Monsters",
+    "firstTimeView": false,
+    "dateWatched": 8
+  },
+  {
+    "name": "Creature from the Black Lagoon",
+    "year": 1954,
+    "rating": 3.5,
+    "imdbId": "tt0046876",
+    "notes": null,
+    "series": "Universal Monsters",
+    "firstTimeView": false,
+    "dateWatched": 8
   }
 ]
