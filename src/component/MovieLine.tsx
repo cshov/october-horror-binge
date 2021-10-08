@@ -20,7 +20,7 @@ function MovieLine(props: { movieObject: Movie; }) {
     return (
         <div className="line">
             <div className="year">{movie.year}</div>
-            <div className="name">{movie.name}</div>
+            <div className="name"><a href={"https://www.imdb.com/title/"+ movie.imdbId + "/"}>{movie.name}</a></div>
             <div className="rating">{ratingsMarkup}</div>
         </div>
     );

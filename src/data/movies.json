@@ -153,12 +153,6 @@
     "firstTimeView": false,
     "dateWatched": 3
   },
-
-
-
-
-
-
   {
     "name": "Phantasm",
     "year": 1979,
@@ -272,7 +266,7 @@
   {
     "name": "Haunt",
     "year": 2019,
-    "rating": 4.5,
+    "rating": 4,
     "imdbId": "tt6535880",
     "notes": null,
     "series": null,
@@ -288,6 +282,25 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 7
+  },
+  {
+    "name": "Night of the Living Dead",
+    "year": 1968,
+    "rating": 4,
+    "imdbId": "tt0063350",
+    "notes": null,
+    "series": "* of the Dead",
+    "firstTimeView": false,
+    "dateWatched": 7
+  },
+  {
+    "name": "Dracula",
+    "year": 1931,
+    "rating": 4.5,
+    "imdbId": "tt0021814",
+    "notes": null,
+    "series": "Universal Monsters",
+    "firstTimeView": false,
+    "dateWatched": 7
   }
-
 ]

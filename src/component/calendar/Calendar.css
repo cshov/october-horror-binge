@@ -10,3 +10,7 @@
     border: 1px solid #999;
     color: #999;
 }
+
+.day.september, .day.november {
+    background-color: black;
+}

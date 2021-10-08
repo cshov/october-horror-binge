@@ -8,3 +8,8 @@ export type Movie = {
     firstTimeView?: any;
     dateWatched: number;
 };
+
+export type MoviesByDay = {
+    day: number;
+    movies: Movie[]
+}

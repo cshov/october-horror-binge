@@ -1,0 +1,9 @@
+.dayMoviesWrapper {
+    padding-bottom: 20px;
+}
+.dayMoviesWrapper p {
+    font-size: 32px;
+}
+.displayNone {
+    display: none;
+}
