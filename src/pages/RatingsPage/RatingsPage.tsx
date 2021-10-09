@@ -1,9 +1,9 @@
-import { getMovies, getMoviesSortedByRating } from "../services/movies-query";
+import { getMovies, getMoviesSortedByRating } from "../../services/movies-query";
 import React from "react";
 
 import './RatingsPage.css';
-import {Movie} from "../models/movie-models";
-import MovieLine from "../component/MovieLine";
+import {Movie} from "../../models/movie-models";
+import MovieLine from "../../component/MovieLine/MovieLine";
 
 function RatingsPage() {
     const moviesByRating = getMoviesSortedByRating();

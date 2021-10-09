@@ -1,6 +1,4 @@
-import { getMovies } from "../../services/movies-query";
 import React from "react";
-
 import './Calendar.css';
 import CalendarDay from "./CalendarDay";
 

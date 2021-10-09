@@ -6,7 +6,7 @@ function CalendarDay(props: { day: number; }) {
     const dayToQuery = props.day;
     const moviesForDay = getMoviesForDay(props.day);
     const dayCount = moviesForDay.length;
-    const movieNames = moviesForDay.flatMap(movie => movie.name);
+    const movieNames = moviesForDay.flatMap(movie => movie.name + ' (' + movie.year + ')');
     const titleString = movieNames.join('\n');
 
     return (

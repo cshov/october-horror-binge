@@ -56,14 +56,14 @@
 }
 
 span.halfRating {
-    background-image: url('../pennywiseHalf.png');
+    background-image: url('../../pennywiseHalf.png');
     background-size: 60px 60px;
     float: left;
     width: 60px;
     height: 60px
 }
 span.fullRating {
-    background-image: url('../pennywiseFull.png');
+    background-image: url('../../pennywiseFull.png');
     background-size: 60px 60px;
     float: left;
     width: 60px;

@@ -9,7 +9,6 @@
   pointer-events: none;
 }
 
-
 @media only screen and (max-width: 600px) {
   .App-logo {
     height: 100px;
@@ -25,17 +24,24 @@
 .App-header {
   background-color: #333333;
   height: 200px;
-  /*min-height: 100vh;*/
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  /*font-size: calc(10px + 2vmin);*/
   color: white;
 }
 
 h1 {
   font-size: 52px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  color: #CCC;
+  font-size: 32px;
 }
 
 p {

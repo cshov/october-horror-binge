@@ -1,8 +1,7 @@
-import { getMovies } from "../services/movies-query";
 import React from "react";
-
+import { getMovies } from "../../services/movies-query";
 import './StatsPage.css';
-import Calendar from "../component/calendar/Calendar";
+import Calendar from "../../component/Calendar/Calendar";
 
 function StatsPage() {
     const numOfMovies = getMovies().length;

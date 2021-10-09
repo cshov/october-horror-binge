@@ -6,16 +6,18 @@ export function getMovies(): Movie[] {
 }
 
 export function getMoviesSortedByRating(): Movie[] {
-    return Movies.sort((a, b) => (a.rating < b.rating) ? 1 : -1);
+
+    const clonedMovies: Movie[] = [...Movies];
+    return clonedMovies.sort((a, b) => (a.rating < b.rating) ? 1 : -1);
 }
 
 export function getMovieTitles(): string[] {
-    const movieTitles: Movie[] = Movies;
+    const movieTitles: Movie[] = [...Movies];
     return movieTitles.map((movie: Movie) => movie.name);
 }
 
 export function getMoviesForDay(dayToCheck: number): Movie[] {
-    return Movies.filter(movie => movie.dateWatched === dayToCheck);
+    return [...Movies].filter(movie => movie.dateWatched === dayToCheck);
 }
 
 export function getMoviesByDayWatched(): MoviesByDay[] {
