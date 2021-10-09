@@ -332,5 +332,15 @@
     "series": "Universal Monsters",
     "firstTimeView": false,
     "dateWatched": 8
+  },
+  {
+    "name": "Angel",
+    "year": 1983,
+    "rating": 3.5,
+    "imdbId": "tt0086896",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 8
   }
 ]

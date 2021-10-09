@@ -7,6 +7,7 @@ import { getMovies } from './services/movies-query';
 import {Movie} from "./models/movie-models";
 import MoviesPage from './pages/MoviesPage';
 import StatsPage from './pages/StatsPage';
+import RatingsPage from "./pages/RatingsPage";
 
 function App() {
     const movies: Movie[] = getMovies();
@@ -29,11 +30,15 @@ function App() {
           </header>
             <div className="navMenu">
                 <Link to="/">Home</Link>
+                <Link to="/ratings">Ratings Sorted</Link>
                 <Link to="/stats">Stats</Link>
             </div>
 
 
             <Switch>
+                <Route path="/ratings">
+                    <RatingsPage></RatingsPage>
+                </Route>
                 <Route path="/stats">
                     <StatsPage></StatsPage>
                 </Route>

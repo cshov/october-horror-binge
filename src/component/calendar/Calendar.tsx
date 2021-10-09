@@ -5,9 +5,6 @@ import './Calendar.css';
 import CalendarDay from "./CalendarDay";
 
 function Calendar() {
-
-    const numOfMovies = getMovies().length;
-
     return (
         <div className="calendar">
             <div className="week">
@@ -64,7 +61,6 @@ function Calendar() {
                 <div className="day november"></div>
                 <div className="day november"></div>
             </div>
-
         </div>
     );
 }

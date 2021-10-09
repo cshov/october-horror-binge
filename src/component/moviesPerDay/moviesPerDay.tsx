@@ -45,11 +45,11 @@ function MoviesPerDay(props: { day: number; }) {
     if(moviesForDay.length > 0) {
         return (
             <div className="dayMoviesWrapper">
-                <p>
+                <h3>
                     October {props.day}{daySuffix}
-                </p>
+                </h3>
                 {moviesForDay.map((movie: Movie) => (
-                    <MovieLine movieObject={movie} />
+                    <MovieLine key="{movie}" movieObject={movie} />
                 ))}
             </div>
         )

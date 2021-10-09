@@ -5,7 +5,6 @@ import './StatsPage.css';
 import Calendar from "../component/calendar/Calendar";
 
 function StatsPage() {
-
     const numOfMovies = getMovies().length;
 
     return (

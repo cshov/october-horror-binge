@@ -5,6 +5,10 @@ export function getMovies(): Movie[] {
     return Movies;
 }
 
+export function getMoviesSortedByRating(): Movie[] {
+    return Movies.sort((a, b) => (a.rating < b.rating) ? 1 : -1);
+}
+
 export function getMovieTitles(): string[] {
     const movieTitles: Movie[] = Movies;
     return movieTitles.map((movie: Movie) => movie.name);
