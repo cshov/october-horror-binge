@@ -423,9 +423,6 @@
     "firstTimeView": false,
     "dateWatched": 10
   },
-
-
-
   {
     "name": "Leprechaun",
     "year": 1993,
@@ -475,5 +472,25 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 11
+  },
+  {
+    "name": "Leprechaun 6: Back 2 Tha Hood",
+    "year": 2003,
+    "rating": 4,
+    "imdbId": "tt0339294",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 12
+  },
+  {
+    "name": "Leprechaun: Origins",
+    "year": 2014,
+    "rating": 3,
+    "imdbId": "tt2345613",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 12
   }
 ]
