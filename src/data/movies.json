@@ -422,5 +422,58 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 10
+  },
+
+
+
+  {
+    "name": "Leprechaun",
+    "year": 1993,
+    "rating": 3.5,
+    "imdbId": "tt0107387",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 11
+  },
+  {
+    "name": "Leprechaun 2",
+    "year": 1994,
+    "rating": 3.5,
+    "imdbId": "tt0110329",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 11
+  },
+  {
+    "name": "Leprechaun 3",
+    "year": 1995,
+    "rating": 3,
+    "imdbId": "tt0113636",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 11
+  },
+  {
+    "name": "Leprechaun 4: In Space",
+    "year": 1996,
+    "rating": 3.5,
+    "imdbId": "tt0116861",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 11
+  },
+  {
+    "name": "Leprechaun 5: In The Hood",
+    "year": 2000,
+    "rating": 4,
+    "imdbId": "tt0209095",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 11
   }
 ]
