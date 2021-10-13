@@ -526,14 +526,21 @@
   {
     "name": "Hatchet II",
     "year": 2010,
-    "rating": 4,
+    "rating": 3.5,
     "imdbId": "tt1270835",
     "notes": null,
     "series": null,
     "firstTimeView": false,
     "dateWatched": 13
+  },
+  {
+    "name": "Hatchet III",
+    "year": 2013,
+    "rating": 4,
+    "imdbId": "tt1870419",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 13
   }
-
-
-
 ]
