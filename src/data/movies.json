@@ -512,5 +512,28 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 12
+  },
+  {
+    "name": "Hatchet",
+    "year": 2006,
+    "rating": 4,
+    "imdbId": "tt0422401",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 13
+  },
+  {
+    "name": "Hatchet II",
+    "year": 2010,
+    "rating": 4,
+    "imdbId": "tt1270835",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 13
   }
+
+
+
 ]
