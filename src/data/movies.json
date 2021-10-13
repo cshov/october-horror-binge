@@ -492,5 +492,25 @@
     "series": null,
     "firstTimeView": true,
     "dateWatched": 12
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 1974,
+    "rating": 4,
+    "imdbId": "tt0072271",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 12
+  },
+  {
+    "name": "Texas Chainsaw Massacre 2",
+    "year": 1986,
+    "rating": 3.5,
+    "imdbId": "tt0092076",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 12
   }
 ]
