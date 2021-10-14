@@ -519,7 +519,7 @@
     "rating": 4,
     "imdbId": "tt0422401",
     "notes": null,
-    "series": null,
+    "series": "Hatchet",
     "firstTimeView": false,
     "dateWatched": 13
   },
@@ -529,7 +529,7 @@
     "rating": 3.5,
     "imdbId": "tt1270835",
     "notes": null,
-    "series": null,
+    "series": "Hatchet",
     "firstTimeView": false,
     "dateWatched": 13
   },
@@ -539,7 +539,17 @@
     "rating": 4,
     "imdbId": "tt1870419",
     "notes": null,
-    "series": null,
+    "series": "Hatchet",
+    "firstTimeView": false,
+    "dateWatched": 13
+  },
+  {
+    "name": "Victor Crowley",
+    "year": 2017,
+    "rating": 4,
+    "imdbId": "tt5534434",
+    "notes": null,
+    "series": "Hatchet",
     "firstTimeView": false,
     "dateWatched": 13
   }
