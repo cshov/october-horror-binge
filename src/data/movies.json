@@ -552,5 +552,55 @@
     "series": "Hatchet",
     "firstTimeView": false,
     "dateWatched": 13
+  },
+  {
+    "name": "Slaxx",
+    "year": 2020,
+    "rating": 4,
+    "imdbId": "tt9741310",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 13
+  },
+  {
+    "name": "Wishmaster",
+    "year": 1997,
+    "rating": 4,
+    "imdbId": "tt0120524",
+    "notes": null,
+    "series": "Wishmaster",
+    "firstTimeView": false,
+    "dateWatched": 14
+  },
+  {
+    "name": "Wishmaster 2: Evil Never Dies",
+    "year": 1999,
+    "rating": 3.5,
+    "imdbId": "tt0156182",
+    "notes": null,
+    "series": "Wishmaster",
+    "firstTimeView": false,
+    "dateWatched": 14
+  },
+  {
+    "name": "Wishmaster 3: Beyond the Gates of Hell",
+    "year": 2001,
+    "rating": 3,
+    "imdbId": "tt0254871",
+    "notes": null,
+    "series": "Wishmaster",
+    "firstTimeView": false,
+    "dateWatched": 14
+  },
+  {
+    "name": "Wishmaster 4: The Prophecy Fulfilled",
+    "year": 2002,
+    "rating": 3.5,
+    "imdbId": "tt0254872",
+    "notes": null,
+    "series": "Wishmaster",
+    "firstTimeView": false,
+    "dateWatched": 14
   }
 ]
