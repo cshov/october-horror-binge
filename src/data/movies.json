@@ -642,5 +642,45 @@
     "series": "Childs Play",
     "firstTimeView": false,
     "dateWatched": 15
+  },
+  {
+    "name": "Curse of Chucky",
+    "year": 2013,
+    "rating": 3.5,
+    "imdbId": "tt0144120",
+    "notes": null,
+    "series": "Childs Play",
+    "firstTimeView": true,
+    "dateWatched": 16
+  },
+  {
+    "name": "Seed of Chucky",
+    "year": 2004,
+    "rating": 3.5,
+    "imdbId": "tt0387575",
+    "notes": null,
+    "series": "Childs Play",
+    "firstTimeView": false,
+    "dateWatched": 16
+  },
+  {
+    "name": "Cult of Chucky",
+    "year": xxx,
+    "rating": 3.5,
+    "imdbId": "tt0387575",
+    "notes": null,
+    "series": "Childs Play",
+    "firstTimeView": false,
+    "dateWatched": 16
+  },
+  {
+    "name": "Halloween Kills",
+    "year": 2021,
+    "rating": 3.5,
+    "imdbId": "tt0387575",
+    "notes": null,
+    "series": "Childs Play",
+    "firstTimeView": false,
+    "dateWatched": 16
   }
 ]
