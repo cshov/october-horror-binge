@@ -665,9 +665,9 @@
   },
   {
     "name": "Cult of Chucky",
-    "year": xxx,
+    "year": 2017,
     "rating": 3.5,
-    "imdbId": "tt0387575",
+    "imdbId": "tt3280262",
     "notes": null,
     "series": "Childs Play",
     "firstTimeView": false,
@@ -676,11 +676,32 @@
   {
     "name": "Halloween Kills",
     "year": 2021,
-    "rating": 3.5,
-    "imdbId": "tt0387575",
+    "rating": 4,
+    "imdbId": "tt10665338",
     "notes": null,
-    "series": "Childs Play",
-    "firstTimeView": false,
+    "series": "Halloween",
+    "firstTimeView": true,
     "dateWatched": 16
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "year": 2014,
+    "rating": 4,
+    "imdbId": "tt3416742",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 17
+  },
+  {
+    "name": "The Shining",
+    "year": 1980,
+    "rating": 4,
+    "imdbId": "tt0081505",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 17
   }
+
 ]
