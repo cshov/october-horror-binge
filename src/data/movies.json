@@ -712,5 +712,45 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 17
+  },
+  {
+    "name": "Halloween",
+    "year": 2018,
+    "rating": 4,
+    "imdbId": "tt1502407",
+    "notes": null,
+    "series": "Halloween",
+    "firstTimeView": false,
+    "dateWatched": 18
+  },
+  {
+    "name": "House of 1000 Corpses",
+    "year": 2003,
+    "rating": 3.5,
+    "imdbId": "tt0251736",
+    "notes": null,
+    "series": "Firefly Family",
+    "firstTimeView": false,
+    "dateWatched": 18
+  },
+  {
+    "name": "The Devil's Rejects",
+    "year": 2005,
+    "rating": 4.5,
+    "imdbId": "tt0395584",
+    "notes": null,
+    "series": "Firefly Family",
+    "firstTimeView": false,
+    "dateWatched": 18
+  },
+  {
+    "name": "3 From Hell",
+    "year": 2019,
+    "rating": 4,
+    "imdbId": "tt8134742",
+    "notes": null,
+    "series": "Firefly Family",
+    "firstTimeView": true,
+    "dateWatched": 19
   }
 ]
