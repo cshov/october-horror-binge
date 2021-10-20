@@ -752,5 +752,45 @@
     "series": "Firefly Family",
     "firstTimeView": true,
     "dateWatched": 19
+  },
+  {
+    "name": "Lost Boys",
+    "year": 1987,
+    "rating": 4.5,
+    "imdbId": "tt0093437",
+    "notes": null,
+    "series": "Lost Boys",
+    "firstTimeView": false,
+    "dateWatched": 19
+  },
+  {
+    "name": "Lost Boys: The Tribe",
+    "year": 2008,
+    "rating": 3.5,
+    "imdbId": "tt1031254",
+    "notes": null,
+    "series": "Lost Boys",
+    "firstTimeView": false,
+    "dateWatched": 19
+  },
+  {
+    "name": "Lost Boys: The Thirst",
+    "year": 2010,
+    "rating": 3,
+    "imdbId": "tt1400526",
+    "notes": null,
+    "series": "Lost Boys",
+    "firstTimeView": false,
+    "dateWatched": 19
+  },
+  {
+    "name": "Child's Play",
+    "year": 2019,
+    "rating": 4,
+    "imdbId": "tt8663516",
+    "notes": null,
+    "series": "Childs Play",
+    "firstTimeView": false,
+    "dateWatched": 19
   }
 ]
