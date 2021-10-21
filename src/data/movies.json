@@ -822,5 +822,15 @@
     "series": "I Know What You Did Last Summer",
     "firstTimeView": false,
     "dateWatched": 20
+  },
+  {
+    "name": "I'll Always Know What You Did Last Summer",
+    "year": 2006,
+    "rating": 3,
+    "imdbId": "tt0469111",
+    "notes": null,
+    "series": "I Know What You Did Last Summer",
+    "firstTimeView": true,
+    "dateWatched": 20
   }
 ]
