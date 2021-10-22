@@ -832,5 +832,35 @@
     "series": "I Know What You Did Last Summer",
     "firstTimeView": true,
     "dateWatched": 20
+  },
+  {
+    "name": "Hellraiser",
+    "year": 1987,
+    "rating": 3.5,
+    "imdbId": "tt0093177",
+    "notes": null,
+    "series": "Hellraiser",
+    "firstTimeView": false,
+    "dateWatched": 21
+  },
+  {
+    "name": "Deathgasm",
+    "year": 2015,
+    "rating": 4.5,
+    "imdbId": "tt3705412",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 21
+  },
+  {
+    "name": "House on Haunted Hillz",
+    "year": 1959,
+    "rating": 4.5,
+    "imdbId": "tt0051744",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 21
   }
 ]
