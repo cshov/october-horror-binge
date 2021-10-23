@@ -854,7 +854,7 @@
     "dateWatched": 21
   },
   {
-    "name": "House on Haunted Hillz",
+    "name": "House on Haunted Hill",
     "year": 1959,
     "rating": 4.5,
     "imdbId": "tt0051744",
@@ -862,5 +862,45 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 21
+  },
+  {
+    "name": "The People Under the Stairs",
+    "year": 1991,
+    "rating": 4,
+    "imdbId": "tt0105121",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 22
+  },
+  {
+    "name": "The Fly",
+    "year": 1958,
+    "rating": 4,
+    "imdbId": "tt0051622",
+    "notes": null,
+    "series": "The Fly",
+    "firstTimeView": true,
+    "dateWatched": 22
+  },
+  {
+    "name": "Return of the Fly",
+    "year": 1959,
+    "rating": 3,
+    "imdbId": "tt0053219",
+    "notes": null,
+    "series": "The Fly",
+    "firstTimeView": true,,
+    "dateWatched": 22
+  },
+  {
+    "name": "Curse of the Fly",
+    "year": 1965,
+    "rating": 3,
+    "imdbId": "tt0059076",
+    "notes": null,
+    "series": "The Fly",
+    "firstTimeView": true,
+    "dateWatched": 22
   }
 ]
