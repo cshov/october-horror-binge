@@ -962,5 +962,25 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 24
+  },
+  {
+    "name": "The Final Girls",
+    "year": 2015,
+    "rating": 4,
+    "imdbId": "tt2118624",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 25
+  },
+  {
+    "name": "Slumber Party Massacre",
+    "year": 2021,
+    "rating": 3,
+    "imdbId": "tt14449392",
+    "notes": null,
+    "series": "Slumber Party Massacre",
+    "firstTimeView": true,
+    "dateWatched": 25
   }
 ]
