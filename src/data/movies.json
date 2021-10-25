@@ -890,7 +890,7 @@
     "imdbId": "tt0053219",
     "notes": null,
     "series": "The Fly",
-    "firstTimeView": true,,
+    "firstTimeView": true,
     "dateWatched": 22
   },
   {
@@ -902,5 +902,65 @@
     "series": "The Fly",
     "firstTimeView": true,
     "dateWatched": 22
+  },
+  {
+    "name": "Creep",
+    "year": 2014,
+    "rating": 4,
+    "imdbId": "tt2428170",
+    "notes": null,
+    "series": "Creep",
+    "firstTimeView": false,
+    "dateWatched": 23
+  },
+  {
+    "name": "Deep Blue Sea",
+    "year": 1999,
+    "rating": 3.5,
+    "imdbId": "tt0149261",
+    "notes": null,
+    "series": "Deep Blue Seaa",
+    "firstTimeView": false,
+    "dateWatched": 23
+  },
+  {
+    "name": "Evil Dead",
+    "year": 2013,
+    "rating": 4,
+    "imdbId": "tt1288558",
+    "notes": null,
+    "series": "Evil Dead",
+    "firstTimeView": true,
+    "dateWatched": 23
+  },
+  {
+    "name": "The Fog",
+    "year": 1980,
+    "rating": 3.5,
+    "imdbId": "tt0080749",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 24
+  },
+  {
+    "name": "Better Watch Out",
+    "year": 2016,
+    "rating": 4,
+    "imdbId": "tt4443658",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 24
+  },
+  {
+    "name": "Fried Barry",
+    "year": 2020,
+    "rating": 3.5,
+    "imdbId": "tt9102084",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 24
   }
 ]
