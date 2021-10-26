@@ -982,5 +982,25 @@
     "series": "Slumber Party Massacre",
     "firstTimeView": true,
     "dateWatched": 25
+  },
+  {
+    "name": "Slumber Party Massacre",
+    "year": 1982,
+    "rating": 3.5,
+    "imdbId": "tt0084695",
+    "notes": null,
+    "series": "Slumber Party Massacre",
+    "firstTimeView": false,
+    "dateWatched": 25
+  },
+  {
+    "name": "Slumber Party Massacre 2",
+    "year": 1987,
+    "rating": 4,
+    "imdbId": "tt0093996",
+    "notes": null,
+    "series": "Slumber Party Massacre",
+    "firstTimeView": false,
+    "dateWatched": 25
   }
 ]
