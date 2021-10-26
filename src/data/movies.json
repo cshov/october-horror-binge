@@ -1002,5 +1002,25 @@
     "series": "Slumber Party Massacre",
     "firstTimeView": false,
     "dateWatched": 25
+  },
+  {
+    "name": "The Driller Killer",
+    "year": 1979,
+    "rating": 3,
+    "imdbId": "tt0079082",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 26
+  },
+  {
+    "name": "28 Days Later",
+    "year": 2002,
+    "rating": 5,
+    "imdbId": "tt0289043",
+    "notes": null,
+    "series": "28 Days/Weeks",
+    "firstTimeView": false,
+    "dateWatched": 26
   }
 ]
