@@ -1032,5 +1032,35 @@
     "series": "28 Days/Weeks",
     "firstTimeView": false,
     "dateWatched": 26
+  },
+  {
+    "name": "Blood Harvest",
+    "year": 1987,
+    "rating": 3.5,
+    "imdbId": "tt0092671",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
+  },
+  {
+    "name": "Trick r Treat",
+    "year": 2007,
+    "rating": 4,
+    "imdbId": "tt0862856",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 27
+  },
+  {
+    "name": "Scare Package",
+    "year": 2019,
+    "rating": 4,
+    "imdbId": "tt7521214",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
   }
 ]
