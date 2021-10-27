@@ -1022,5 +1022,15 @@
     "series": "28 Days/Weeks",
     "firstTimeView": false,
     "dateWatched": 26
+  },
+  {
+    "name": "28 Weeks Later",
+    "year": 2007,
+    "rating": 4,
+    "imdbId": "tt0463854",
+    "notes": null,
+    "series": "28 Days/Weeks",
+    "firstTimeView": false,
+    "dateWatched": 26
   }
 ]
