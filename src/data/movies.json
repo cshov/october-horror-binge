@@ -1062,5 +1062,25 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 27
+  },
+  {
+    "name": "Sleepaway Camp",
+    "year": 1983,
+    "rating": 4,
+    "imdbId": "tt0086320",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
+  },
+  {
+    "name": "Sorority Babes in the Slimeball Bowl-O-Rama",
+    "year": 1988,
+    "rating": 4,
+    "imdbId": "tt0096142",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
   }
 ]
