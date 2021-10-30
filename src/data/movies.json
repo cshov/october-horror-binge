@@ -1082,5 +1082,55 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 27
+  },
+  {
+    "name": "Sleepaway Camp 2",
+    "year": 1983,
+    "rating": 4,
+    "imdbId": "tt0086320",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 28
+  },
+  {
+    "name": "Phantom of the Opera",
+    "year": 1943,
+    "rating": 4,
+    "imdbId": "tt0036261",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 28
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 2003,
+    "rating": 4,
+    "imdbId": "tt0324216",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 29
+  },
+  {
+    "name": "Texas Chainsaw Massacre: The Beginning",
+    "year": 2006,
+    "rating": 3.5,
+    "imdbId": "tt0420294",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 29
+  },
+  {
+    "name": "Texas Chainsaw",
+    "year": 2013,
+    "rating": 2.5,
+    "imdbId": "tt1572315",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 29
   }
 ]
