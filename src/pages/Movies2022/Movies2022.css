@@ -12,9 +12,11 @@ h2 {
 
 .dayPanel h3 {
     width: 100px;
-    margin: 16px 0;
-    font-size: 60px;
+    margin: 8px 12px 0 0;
+    font-size: 75px;
     line-height: 1;
+    text-align: right;
+
 }
 
 .dayPanel .movies {
