@@ -962,5 +962,185 @@
     "series": null,
     "firstTimeView": false,
     "dateWatched": 24
+  },
+  {
+    "name": "The Final Girls",
+    "year": 2015,
+    "rating": 4,
+    "imdbId": "tt2118624",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 25
+  },
+  {
+    "name": "Slumber Party Massacre",
+    "year": 2021,
+    "rating": 3,
+    "imdbId": "tt14449392",
+    "notes": null,
+    "series": "Slumber Party Massacre",
+    "firstTimeView": true,
+    "dateWatched": 25
+  },
+  {
+    "name": "Slumber Party Massacre",
+    "year": 1982,
+    "rating": 3.5,
+    "imdbId": "tt0084695",
+    "notes": null,
+    "series": "Slumber Party Massacre",
+    "firstTimeView": false,
+    "dateWatched": 25
+  },
+  {
+    "name": "Slumber Party Massacre 2",
+    "year": 1987,
+    "rating": 4,
+    "imdbId": "tt0093996",
+    "notes": null,
+    "series": "Slumber Party Massacre",
+    "firstTimeView": false,
+    "dateWatched": 25
+  },
+  {
+    "name": "The Driller Killer",
+    "year": 1979,
+    "rating": 3,
+    "imdbId": "tt0079082",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 26
+  },
+  {
+    "name": "28 Days Later",
+    "year": 2002,
+    "rating": 5,
+    "imdbId": "tt0289043",
+    "notes": null,
+    "series": "28 Days/Weeks",
+    "firstTimeView": false,
+    "dateWatched": 26
+  },
+  {
+    "name": "28 Weeks Later",
+    "year": 2007,
+    "rating": 4,
+    "imdbId": "tt0463854",
+    "notes": null,
+    "series": "28 Days/Weeks",
+    "firstTimeView": false,
+    "dateWatched": 26
+  },
+  {
+    "name": "Blood Harvest",
+    "year": 1987,
+    "rating": 3.5,
+    "imdbId": "tt0092671",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
+  },
+  {
+    "name": "Trick r Treat",
+    "year": 2007,
+    "rating": 4,
+    "imdbId": "tt0862856",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 27
+  },
+  {
+    "name": "Scare Package",
+    "year": 2019,
+    "rating": 4,
+    "imdbId": "tt7521214",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
+  },
+  {
+    "name": "Sleepaway Camp",
+    "year": 1983,
+    "rating": 4,
+    "imdbId": "tt0086320",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
+  },
+  {
+    "name": "Sorority Babes in the Slimeball Bowl-O-Rama",
+    "year": 1988,
+    "rating": 4,
+    "imdbId": "tt0096142",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 27
+  },
+  {
+    "name": "Sleepaway Camp 2",
+    "year": 1983,
+    "rating": 4,
+    "imdbId": "tt0086320",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 28
+  },
+  {
+    "name": "Phantom of the Opera",
+    "year": 1943,
+    "rating": 4,
+    "imdbId": "tt0036261",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 28
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 2003,
+    "rating": 4,
+    "imdbId": "tt0324216",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 29
+  },
+  {
+    "name": "Texas Chainsaw Massacre: The Beginning",
+    "year": 2006,
+    "rating": 3.5,
+    "imdbId": "tt0420294",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 29
+  },
+  {
+    "name": "Texas Chainsaw",
+    "year": 2013,
+    "rating": 2.5,
+    "imdbId": "tt1572315",
+    "notes": null,
+    "series": null,
+    "firstTimeView": true,
+    "dateWatched": 29
+  },
+  {
+    "name": "The Shed",
+    "year": 2019,
+    "rating": 3.5,
+    "imdbId": "tt8236366",
+    "notes": null,
+    "series": null,
+    "firstTimeView": false,
+    "dateWatched": 31
   }
 ]
