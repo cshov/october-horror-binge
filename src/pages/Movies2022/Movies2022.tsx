@@ -20,7 +20,7 @@ function Movies2022() {
                         <h3>{day}</h3>
                         <div className="movies">
                     {movies.map((movie: Movie, i) => (
-                            <p>{movie.name} ({movie.year})</p>
+                        <p><a href={"https://www.imdb.com/title/"+ movie.imdbId + "/"}><strong>{movie.name}</strong> ({movie.year})</a></p>
                         ))}
                         </div>
                     </div>
