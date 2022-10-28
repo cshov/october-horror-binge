@@ -1,7 +1,7 @@
 export type Movie = {
     name: string;
     year: number;
-    rating: number;
+    rating?: number;
     imdbId? : any;
     notes?: string | undefined | null;
     series?: string | undefined | null;

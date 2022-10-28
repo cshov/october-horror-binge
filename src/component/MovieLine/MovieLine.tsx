@@ -4,8 +4,8 @@ import { Movie } from "../../models/movie-models";
 
 function MovieLine(props: { movieObject: Movie; }) {
     const movie: Movie = props.movieObject;
-    const numFullPoints: number = Math.floor(movie.rating);
-    const hasHalfPoint: boolean = movie.rating%1 !== 0;
+    const numFullPoints: number = Math.floor(movie.rating!);
+    const hasHalfPoint: boolean = movie.rating!%1 !== 0;
     let ratingsMarkup = [];
 
     for (let i = 0; i < numFullPoints; i += 1) {

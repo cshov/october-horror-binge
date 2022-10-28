@@ -1,0 +1,27 @@
+h2 {
+    color: white;
+}
+
+.dayPanel {
+    display: flex;
+    width: 400px;
+    flex-direction: row;
+    margin: 0 auto 40px;
+
+}
+
+.dayPanel h3 {
+    width: 100px;
+    margin: 16px 0;
+    font-size: 60px;
+    line-height: 1;
+}
+
+.dayPanel .movies {
+    flex: 1;
+}
+
+.dayPanel .movies p{
+    align-content: flex-start;
+    text-align: left;
+}

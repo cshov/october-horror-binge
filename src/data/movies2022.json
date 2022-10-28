@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "Chopping Mall",
+    "year": 1986,
+    "dateWatched": 1,
+    "imdbId": "tt0090837"
+  },
+  {
+    "name": "Beetlejuice",
+    "year": 1988,
+    "dateWatched": 1,
+    "imdbId": "tt0094721"
+  },
+  {
+    "name": "Event Horizon",
+    "year": 1997,
+    "dateWatched": 1,
+    "imdbId": "tt0119081"
+  },
+  {
+    "name": "8 Legged Freaks",
+    "year": 2002,
+    "dateWatched": 2,
+    "imdbId": "tt0271367"
+  },
+  {
+    "name": "Re-Animator",
+    "year": 1985,
+    "dateWatched": 2,
+    "imdbId": "tt0089885"
+  },
+  {
+    "name": "The Purge",
+    "year": 2013,
+    "dateWatched": 2,
+    "imdbId": "tt2184339"
+  },
+  {
+    "name": "Killer Klowns from Outer space",
+    "year": 1988,
+    "dateWatched": 3,
+    "imdbId": "tt0095444"
+  },
+  {
+    "name": "Haunt",
+    "year": 2019,
+    "dateWatched": 3,
+    "imdbId": "tt6535880"
+  },
+  {
+    "name": "Hellraiser",
+    "year": 1987,
+    "dateWatched": 3,
+    "imdbId": "tt0093177"
+  },
+  {
+    "name": "Hatchet",
+    "year": 2006,
+    "dateWatched": 3,
+    "imdbId": "tt0422401"
+  },
+  {
+    "name": "Hatchet 2",
+    "year": 2010,
+    "dateWatched": 3,
+    "imdbId": "tt1270835"
+  },
+  {
+    "name": "Hatchet 3",
+    "year": 2013,
+    "dateWatched": 3,
+    "imdbId": "tt1870419"
+  },
+  {
+    "name": "Victor Crowley",
+    "year": 2017,
+    "dateWatched": 4,
+    "imdbId": "tt5534434"
+  },
+  {
+    "name": "Tucker & Dale Vs Evil",
+    "year": 2010,
+    "dateWatched": 4,
+    "imdbId": "tt1465522"
+  },
+  {
+    "name": "Shaun of the Dead",
+    "year": 2004,
+    "dateWatched": 4,
+    "imdbId": "tt0365748"
+  },
+  {
+    "name": "Deathgasm",
+    "year": 2015,
+    "dateWatched": 4,
+    "imdbId": "tt3705412"
+  },
+  {
+    "name": "Saw",
+    "year": 2004,
+    "dateWatched": 4,
+    "imdbId": "tt0387564"
+  },
+  {
+    "name": "Sleepaway Camp",
+    "year": 1983,
+    "dateWatched": 4,
+    "imdbId": "tt0086320"
+  },
+  {
+    "name": "Zombieland",
+    "year": 2009,
+    "dateWatched": 4,
+    "imdbId": "tt1156398"
+  },
+  {
+    "name": "Scream",
+    "year": 1996,
+    "dateWatched": 4,
+    "imdbId": "tt0117571"
+  },
+  {
+    "name": "Scream 2",
+    "year": 1997,
+    "dateWatched": 5,
+    "imdbId": "tt0120082"
+  },
+  {
+    "name": "Scream 3",
+    "year": 2000,
+    "dateWatched": 5,
+    "imdbId": "tt0134084"
+  },
+  {
+    "name": "Scream 4",
+    "year": 2011,
+    "dateWatched": 5,
+    "imdbId": "tt1262416"
+  },
+  {
+    "name": "Scream",
+    "year": 2022,
+    "dateWatched": 5,
+    "imdbId": "tt11245972"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "year": 1968,
+    "dateWatched": 5,
+    "imdbId": "tt0063350"
+  },
+  {
+    "name": "Nightmare on Elm Street",
+    "year": 1984,
+    "dateWatched": 5,
+    "imdbId": "tt0087800"
+  },
+  {
+    "name": "A Nightmare on Elm Street 2: Freddy's Revenge",
+    "year": 1985,
+    "dateWatched": 6,
+    "imdbId": "tt0089686"
+  },
+  {
+    "name": "A Nightmare on Elm Street 3: Dream Warriors",
+    "year": 1987,
+    "dateWatched": 6,
+    "imdbId": "tt0093629"
+  },
+  {
+    "name": "The Fly",
+    "year": 1986,
+    "dateWatched": 6,
+    "imdbId": "tt0091064"
+  },
+  {
+    "name": "The Babysitter",
+    "year": 2017,
+    "dateWatched": 6,
+    "imdbId": "tt4225622"
+  },
+  {
+    "name": "The Babysitter: Killer Queen",
+    "year": 2020,
+    "dateWatched": 6,
+    "imdbId": "tt11024272"
+  },
+  {
+    "name": "Cube",
+    "year": 1997,
+    "dateWatched": 6,
+    "imdbId": "tt0123755"
+  },
+  {
+    "name": "Wishmaster",
+    "year": 1997,
+    "dateWatched": 7,
+    "imdbId": "tt0120524"
+  },
+  {
+    "name": "The Return of the Living Dead",
+    "year": 1985,
+    "dateWatched": 7,
+    "imdbId": "tt0089907"
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 1974,
+    "dateWatched": 7,
+    "imdbId": "tt0072271"
+  },
+  {
+    "name": "Texas Chainsaw Massacre 2",
+    "year": 1986,
+    "dateWatched": 7,
+    "imdbId": "tt0092076"
+  },
+  {
+    "name": "House of 1000 Corpses",
+    "year": 2003,
+    "dateWatched": 7,
+    "imdbId": "tt0251736"
+  },
+  {
+    "name": "The Devil's Rejects",
+    "year": 2005,
+    "dateWatched": 7,
+    "imdbId": "tt0395584"
+  },
+  {
+    "name": "Final Destination",
+    "year": 2000,
+    "dateWatched": 8,
+    "imdbId": "tt0195714"
+  },
+  {
+    "name": "Creep",
+    "year": 2014,
+    "dateWatched": 8,
+    "imdbId": "tt2428170"
+  },
+  {
+    "name": "Creep 2",
+    "year": 2017,
+    "dateWatched": 8,
+    "imdbId": "tt3654796"
+  },
+  {
+    "name": "28 Days Later",
+    "year": 2002,
+    "dateWatched": 8,
+    "imdbId": "tt0289043"
+  },
+  {
+    "name": "28 Weeks Later",
+    "year": 2007,
+    "dateWatched": 8,
+    "imdbId": "tt0463854"
+  },
+  {
+    "name": "American Psycho",
+    "year": 2000,
+    "dateWatched": 8,
+    "imdbId": "tt0144084"
+  },
+  {
+    "name": "Evil Bong",
+    "year": 2006,
+    "dateWatched": 8,
+    "imdbId": "tt0829424"
+  },
+  {
+    "name": "Resident Evil",
+    "year": 2002,
+    "dateWatched": 9,
+    "imdbId": "tt0120804"
+  },
+  {
+    "name": "Blair Witch Project",
+    "year": 1999,
+    "dateWatched": 9,
+    "imdbId": "tt0185937"
+  },
+  {
+    "name": "An American Werewolf in London",
+    "year": 1981,
+    "dateWatched": 9,
+    "imdbId": "tt0082010"
+  },
+  {
+    "name": "Hellraiser",
+    "year": 2022,
+    "dateWatched": 9,
+    "imdbId": "tt0887261"
+  },
+  {
+    "name": "My Bloody Valentine",
+    "year": 1981,
+    "dateWatched": 10,
+    "imdbId": "tt0082782"
+  },
+  {
+    "name": "Scanners",
+    "year": 1981,
+    "dateWatched": 10,
+    "imdbId": "tt0081455"
+  },
+  {
+    "name": "Puppet Master",
+    "year": 1989,
+    "dateWatched": 10,
+    "imdbId": "tt0098143"
+  },
+  {
+    "name": "Slaxx",
+    "year": 2020,
+    "dateWatched": 10,
+    "imdbId": "tt9741310"
+  },
+  {
+    "name": "Piranha",
+    "year": 1978,
+    "dateWatched": 10,
+    "imdbId": "tt0078087"
+  },
+  {
+    "name": "Vicious Fun",
+    "year": 2020,
+    "dateWatched": 11,
+    "imdbId": "tt11778118"
+  },
+  {
+    "name": "Zombie",
+    "year": 1979,
+    "dateWatched": 11,
+    "imdbId": "tt0080057"
+  },
+  {
+    "name": "Frankenstein",
+    "year": 1931,
+    "dateWatched": 11,
+    "imdbId": "tt0021884"
+  },
+  {
+    "name": "Bride of Frankenstein",
+    "year": 1935,
+    "dateWatched": 11,
+    "imdbId": "tt0026138"
+  },
+  {
+    "name": "Dracula",
+    "year": 1931,
+    "dateWatched": 11,
+    "imdbId": "tt0021814"
+  },
+  {
+    "name": "Dawn of the Dead",
+    "year": 2004,
+    "dateWatched": 11,
+    "imdbId": "tt0363547"
+  },
+  {
+    "name": "The Prophecy",
+    "year": 1995,
+    "dateWatched": 11,
+    "imdbId": "tt0114194"
+  },
+  {
+    "name": "The Stepfather",
+    "year": 1987,
+    "dateWatched": 12,
+    "imdbId": "tt0094035"
+  },
+  {
+    "name": "The Crazies",
+    "year": 1973,
+    "dateWatched": 12,
+    "imdbId": "tt0069895"
+  },
+  {
+    "name": "Slumber Party Massacre",
+    "year": 1982,
+    "dateWatched": 12,
+    "imdbId": "tt0084695"
+  },
+  {
+    "name": "Slumber Party Massacre 2",
+    "year": 1987,
+    "dateWatched": 12,
+    "imdbId": "tt0093996"
+  },
+  {
+    "name": "A Quiet Place",
+    "year": 2018,
+    "dateWatched": 12,
+    "imdbId": "tt6644200"
+  },
+  {
+    "name": "A Quiet Place 2",
+    "year": 2020,
+    "dateWatched": 12,
+    "imdbId": "tt8332922"
+  },
+  {
+    "name": "I Know What You Did Last Summer",
+    "year": 1997,
+    "dateWatched": 12,
+    "imdbId": "tt0119345"
+  },
+  {
+    "name": "I Still Know What You Did Last Summer",
+    "year": 1998,
+    "dateWatched": 12,
+    "imdbId": "tt0130018"
+  },
+  {
+    "name": "Candyman",
+    "year": 1992,
+    "dateWatched": 13,
+    "imdbId": "tt0103919"
+  },
+  {
+    "name": "Leprechaun",
+    "year": 1993,
+    "dateWatched": 13,
+    "imdbId": "tt0107387"
+  },
+  {
+    "name": "Leprechaun 4: In Space",
+    "year": 1996,
+    "dateWatched": 13,
+    "imdbId": "tt0116861"
+  },
+  {
+    "name": "Phantasm",
+    "year": 1979,
+    "dateWatched": 13,
+    "imdbId": "tt0079714"
+  },
+  {
+    "name": "House on Haunted Hill",
+    "year": 1959,
+    "dateWatched": 13,
+    "imdbId": "tt0051744"
+  },
+  {
+    "name": "Society",
+    "year": 1989,
+    "dateWatched": 13,
+    "imdbId": "tt0098354"
+  },
+  {
+    "name": "It Stains The Sands Red",
+    "year": 2016,
+    "dateWatched": 13,
+    "imdbId": "tt5735280"
+  },
+  {
+    "name": "The Gingerdead Man",
+    "year": 2005,
+    "dateWatched": 13,
+    "imdbId": "tt0364376"
+  },
+  {
+    "name": "Henry: Portrait of a Serial Killer",
+    "year": 1986,
+    "dateWatched": 14,
+    "imdbId": "tt0099763"
+  },
+  {
+    "name": "Sorority Babes in the Slimeball Bowl-O-Rama",
+    "year": 1988,
+    "dateWatched": 14,
+    "imdbId": "tt0096142"
+  },
+  {
+    "name": "Children of the Corn",
+    "year": 1984,
+    "dateWatched": 14,
+    "imdbId": "tt0087050"
+  },
+  {
+    "name": "It Came From The Desert",
+    "year": 2017,
+    "dateWatched": 14,
+    "imdbId": "tt4288674"
+  },
+  {
+    "name": "Evil Bong 666",
+    "year": 2017,
+    "dateWatched": 14,
+    "imdbId": "tt6462084"
+  },
+  {
+    "name": "Willy's Wonderland",
+    "year": 2021,
+    "dateWatched": 15,
+    "imdbId": "tt8114980"
+  },
+  {
+    "name": "Freddy Vs Jason",
+    "year": 2003,
+    "dateWatched": 15,
+    "imdbId": "tt0329101"
+  },
+  {
+    "name": "Halloween",
+    "year": 1978,
+    "dateWatched": 15,
+    "imdbId": "tt0077651"
+  },
+  {
+    "name": "Halloween II",
+    "year": 1981,
+    "dateWatched": 15,
+    "imdbId": "tt0082495"
+  },
+  {
+    "name": "Halloween III: Season of the Witch",
+    "year": 1982,
+    "dateWatched": 15,
+    "imdbId": "tt0085636"
+  },
+  {
+    "name": "Halloween 4: The Return of Michael Myers",
+    "year": 1988,
+    "dateWatched": 16,
+    "imdbId": "tt0095271"
+  },
+  {
+    "name": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "dateWatched": 16,
+    "imdbId": "tt0097474"
+  },
+  {
+    "name": "Halloween Kills",
+    "year": 2021,
+    "dateWatched": 16,
+    "imdbId": "tt10665338"
+  },
+  {
+    "name": "Hostel",
+    "year": 2005,
+    "dateWatched": 16,
+    "imdbId": "tt0450278"
+  },
+  {
+    "name": "The Mummy",
+    "year": 1932,
+    "dateWatched": 16,
+    "imdbId": "tt0023245"
+  },
+  {
+    "name": "The Invisible Man",
+    "year": 1933,
+    "dateWatched": 16,
+    "imdbId": "tt0024184"
+  },
+  {
+    "name": "The Wolf Man",
+    "year": 1941,
+    "dateWatched": 16,
+    "imdbId": "tt0034398"
+  },
+  {
+    "name": "The Descent",
+    "year": 2005,
+    "dateWatched": 17,
+    "imdbId": "tt0435625"
+  },
+  {
+    "name": "The Descent: Part 2",
+    "year": 2009,
+    "dateWatched": 17,
+    "imdbId": "tt1073105"
+  },
+  {
+    "name": "Planet Terror",
+    "year": 2007,
+    "dateWatched": 17,
+    "imdbId": "tt1077258"
+  },
+  {
+    "name": "10 Cloverfield Lane",
+    "year": 2016,
+    "dateWatched": 17,
+    "imdbId": "tt1179933"
+  },
+  {
+    "name": "Jennifer's Body",
+    "year": 2009,
+    "dateWatched": 17,
+    "imdbId": "tt1131734"
+  },
+  {
+    "name": "Frankenhooker",
+    "year": 1990,
+    "dateWatched": 17,
+    "imdbId": "tt0099611"
+  },
+  {
+    "name": "Basket Case",
+    "year": 1982,
+    "dateWatched": 17,
+    "imdbId": "tt0083624"
+  },
+  {
+    "name": "The Stuff",
+    "year": 1985,
+    "dateWatched": 17,
+    "imdbId": "tt0090094"
+  },
+  {
+    "name": "Hereditary",
+    "year": 2018,
+    "dateWatched": 18,
+    "imdbId": "tt7784604"
+  },
+  {
+    "name": "An American Werewolf in Paris",
+    "year": 1997,
+    "dateWatched": 18,
+    "imdbId": "tt0118604"
+  },
+  {
+    "name": "Army of Darkness",
+    "year": 1992,
+    "dateWatched": 18,
+    "imdbId": "tt0106308"
+  },
+  {
+    "name": "Black Christmas",
+    "year": 1974,
+    "dateWatched": 18,
+    "imdbId": "tt0071222"
+  },
+  {
+    "name": "Sharknado",
+    "year": 2013,
+    "dateWatched": 18,
+    "imdbId": "tt2724064"
+  },
+  {
+    "name": "Summer of 84",
+    "year": 2018,
+    "dateWatched": 18,
+    "imdbId": "tt5774450"
+  },
+  {
+    "name": "Jason X",
+    "year": 2001,
+    "dateWatched": 18,
+    "imdbId": "tt0211443"
+  },
+  {
+    "name": "Halloween",
+    "year": 2018,
+    "dateWatched": 19,
+    "imdbId": "tt1502407"
+  },
+  {
+    "name": "The Thing",
+    "year": 2011,
+    "dateWatched": 19,
+    "imdbId": "tt0905372"
+  },
+  {
+    "name": "The Thing",
+    "year": 1982,
+    "dateWatched": 19,
+    "imdbId": "tt0084787"
+  },
+  {
+    "name": "The Black Phone",
+    "year": 2021,
+    "dateWatched": 19,
+    "imdbId": "tt7144666"
+  },
+  {
+    "name": "Prom Night",
+    "year": 1980,
+    "dateWatched": 19,
+    "imdbId": "tt0081383"
+  },
+  {
+    "name": "Ginger Snaps",
+    "year": 2000,
+    "dateWatched": 19,
+    "imdbId": "tt0210070"
+  },
+  {
+    "name": "Tourist Trap",
+    "year": 1979,
+    "dateWatched": 19,
+    "imdbId": "tt0080040"
+  },
+  {
+    "name": "The Beyond",
+    "year": 1981,
+    "dateWatched": 19,
+    "imdbId": "tt0082307"
+  },
+  {
+    "name": "Tremors",
+    "year": 1990,
+    "dateWatched": 20,
+    "imdbId": "tt0100814"
+  },
+  {
+    "name": "Devil",
+    "year": 2010,
+    "dateWatched": 20,
+    "imdbId": "tt1314655"
+  },
+  {
+    "name": "X",
+    "year": 2022,
+    "dateWatched": 20,
+    "imdbId": "tt13560574"
+  },
+  {
+    "name": "Psycho Goreman",
+    "year": 2020,
+    "dateWatched": 20,
+    "imdbId": "tt11252440"
+  },
+  {
+    "name": "Trick or Treat",
+    "year": 1986,
+    "dateWatched": 20,
+    "imdbId": "tt0092112"
+  },
+  {
+    "name": "Jack Frost",
+    "year": 1997,
+    "dateWatched": 20,
+    "imdbId": "tt0116671"
+  },
+  {
+    "name": "Silence of the Lambs",
+    "year": 1991,
+    "dateWatched": 21,
+    "imdbId": "tt0102926"
+  },
+  {
+    "name": "Candyman",
+    "year": 2021,
+    "dateWatched": 21,
+    "imdbId": "tt9347730"
+  },
+  {
+    "name": "John Carpenter's Vampires",
+    "year": 1998,
+    "dateWatched": 21,
+    "imdbId": "tt0120877"
+  },
+  {
+    "name": "Piranha 3D",
+    "year": 2010,
+    "dateWatched": 21,
+    "imdbId": "tt0464154"
+  },
+  {
+    "name": "Elvira's Haunted Hills",
+    "year": 2001,
+    "dateWatched": 21,
+    "imdbId": "tt0265171"
+  },
+  {
+    "name": "Popcorn",
+    "year": 1991,
+    "dateWatched": 21,
+    "imdbId": "tt0102690"
+  },
+  {
+    "name": "Nobody Sleeps in the Woods Tonight",
+    "year": 2020,
+    "dateWatched": 22,
+    "imdbId": "tt11240506"
+  },
+  {
+    "name": "Leprechaun 5: In the Hood",
+    "year": 2000,
+    "dateWatched": 22,
+    "imdbId": "tt0209095"
+  },
+  {
+    "name": "Leprechaun 6: Back 2 Tha Hood",
+    "year": 2003,
+    "dateWatched": 22,
+    "imdbId": "tt0339294"
+  },
+  {
+    "name": "Saw 2",
+    "year": 2005,
+    "dateWatched": 22,
+    "imdbId": "tt0432348"
+  },
+  {
+    "name": "Evil Bong 777",
+    "year": 2018,
+    "dateWatched": 22,
+    "imdbId": "tt8073604"
+  },
+  {
+    "name": "Bride of Re-Animator",
+    "year": 1990,
+    "dateWatched": 23,
+    "imdbId": "tt0099180"
+  },
+  {
+    "name": "Beyond Re-Animator",
+    "year": 2003,
+    "dateWatched": 23,
+    "imdbId": "tt0222812"
+  },
+  {
+    "name": "It Follows",
+    "year": 2014,
+    "dateWatched": 23,
+    "imdbId": "tt3235888"
+  },
+  {
+    "name": "Halloween Ends",
+    "year": 2022,
+    "dateWatched": 23,
+    "imdbId": "tt10665342"
+  },
+  {
+    "name": "Wes Craven's New Nightmare",
+    "year": 1994,
+    "dateWatched": 24,
+    "imdbId": "tt0111686"
+  },
+  {
+    "name": "The Faculty",
+    "year": 1998,
+    "dateWatched": 24,
+    "imdbId": "tt0133751"
+  },
+  {
+    "name": "Poltergeist",
+    "year": 1982,
+    "dateWatched": 24,
+    "imdbId": "tt0084516"
+  },
+  {
+    "name": "Case 39",
+    "year": 2009,
+    "dateWatched": 24,
+    "imdbId": "tt0795351"
+  },
+  {
+    "name": "Book of Shadows: Blair Witch 2",
+    "year": 2000,
+    "dateWatched": 24,
+    "imdbId": "tt0229260"
+  },
+  {
+    "name": "Jason Goes to Hell: The Final Friday",
+    "year": 1993,
+    "dateWatched": 24,
+    "imdbId": "tt0107254"
+  },
+  {
+    "name": "Prince of Darkness",
+    "year": 1987,
+    "dateWatched": 24,
+    "imdbId": "tt0093777"
+  },
+  {
+    "name": "It Came from Outer Space",
+    "year": 1953,
+    "dateWatched": 25,
+    "imdbId": "tt0045920"
+  },
+  {
+    "name": "The People Under the Stairs",
+    "year": 1991,
+    "dateWatched": 25,
+    "imdbId": "tt0105121"
+  },
+  {
+    "name": "They Live",
+    "year": 1988,
+    "dateWatched": 25,
+    "imdbId": "tt0096256"
+  },
+  {
+    "name": "Train to Busan",
+    "year": 2016,
+    "dateWatched": 25,
+    "imdbId": "tt5700672"
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 2003,
+    "dateWatched": 25,
+    "imdbId": "tt0324216"
+  },
+  {
+    "name": "The Hills Have Eyes",
+    "year": 1977,
+    "dateWatched": 25,
+    "imdbId": "tt0077681"
+  },
+  {
+    "name": "Barbarian",
+    "year": 2022,
+    "dateWatched": 25,
+    "imdbId": "tt15791034"
+  },
+  {
+    "name": "The Deep House",
+    "year": 2021,
+    "dateWatched": 25,
+    "imdbId": "tt11686490"
+  },
+  {
+    "name": "Hellbound: Hellraiser 2",
+    "year": 1988,
+    "dateWatched": 26,
+    "imdbId": "tt0095294"
+  },
+  {
+    "name": "Maniac",
+    "year": 1980,
+    "dateWatched": 26,
+    "imdbId": "tt0081114"
+  },
+  {
+    "name": "Tetsuo The Iron Man",
+    "year": 1989,
+    "dateWatched": 26,
+    "imdbId": "tt0096251"
+  },
+  {
+    "name": "Mayhem",
+    "year": 2017,
+    "dateWatched": 26,
+    "imdbId": "tt4348012"
+  },
+  {
+    "name": "Hellbender",
+    "year": 2021,
+    "dateWatched": 26,
+    "imdbId": "tt14905650"
+  },
+  {
+    "name": "Terrifier",
+    "year": 2016,
+    "dateWatched": 26,
+    "imdbId": "tt4281724"
+  },
+  {
+    "name": "All Hallows Eve",
+    "year": 2013,
+    "dateWatched": 26,
+    "imdbId": "tt2900624"
+  },
+  {
+    "name": "Ticks",
+    "year": 1993,
+    "dateWatched": 26,
+    "imdbId": "tt0108339"
+  },
+  {
+    "name": "Piranha DD",
+    "year": 2012,
+    "dateWatched": 27,
+    "imdbId": "tt1714203"
+  },
+  {
+    "name": "My Bloody Valentine",
+    "year": 2009,
+    "dateWatched": 27,
+    "imdbId": "tt1179891"
+  },
+  {
+    "name": "CHUD",
+    "year": 1984,
+    "dateWatched": 27,
+    "imdbId": "tt0087015"
+  },
+  {
+    "name": "House",
+    "year": 1985,
+    "dateWatched": 27,
+    "imdbId": "tt0091223"
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 2022,
+    "dateWatched": 27,
+    "imdbId": "tt11755740"
+  },
+  {
+    "name": "Day Shift",
+    "year": 2022,
+    "dateWatched": 27,
+    "imdbId": "tt13314558"
+  },
+  {
+    "name": "V/H/S",
+    "year": 2012,
+    "dateWatched": 27,
+    "imdbId": "tt2105044"
+  }
+]
