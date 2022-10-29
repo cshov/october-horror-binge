@@ -1012,5 +1012,59 @@
     "year": 2022,
     "dateWatched": 27,
     "imdbId": "tt17196124"
+  },
+  {
+    "name": "The Mist",
+    "year": 2007,
+    "dateWatched": 28,
+    "imdbId": "tt0884328"
+  },
+  {
+    "name": "Vivarium",
+    "year": 2019,
+    "dateWatched": 28,
+    "imdbId": "tt8368406"
+  },
+  {
+    "name": "John Dies at the End",
+    "year": 2012,
+    "dateWatched": 28,
+    "imdbId": "tt1783732"
+  },
+  {
+    "name": "Freddy's Dead: The Final Nightmare",
+    "year": 1991,
+    "dateWatched": 28,
+    "imdbId": "tt0101917"
+  },
+  {
+    "name": "Suspiria",
+    "year": 1977,
+    "dateWatched": 28,
+    "imdbId": "tt0076786"
+  },
+  {
+    "name": "Doom",
+    "year": 2005,
+    "dateWatched": 28,
+    "imdbId": "tt0419706"
+  },
+  {
+    "name": "Zombeavers",
+    "year": 2014,
+    "dateWatched": 29,
+    "imdbId": "tt2784512"
+  },
+  {
+    "name": "Zombie Strippers!",
+    "year": 2008,
+    "dateWatched": 29,
+    "imdbId": "tt0960890"
+  },
+  {
+    "name": "The Last Man on Earth",
+    "year": 1964,
+    "dateWatched": 29,
+    "imdbId": "tt0058700"
   }
 ]
