@@ -9,7 +9,7 @@ function Movies2022() {
 
     return (
         <div>
-            <h2>October 2022 ({getMoviesTotal2022()} watched so far)</h2>
+            <p>This is a list of all the horror movies I've watched in October 2022. So far, that list includes <strong>{getMoviesTotal2022()}</strong> different movies.</p>
 
             {moviesByDayArray.map(({ day, movies }, i) => {
                 return (
