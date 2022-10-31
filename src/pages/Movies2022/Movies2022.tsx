@@ -3,8 +3,6 @@ import {Movie, MoviesByDay} from "../../models/movie-models";
 import {getMoviesByDayWatched2022, getMoviesTotal2022} from "../../services/movies-query";
 import '../StatsPage/StatsPage.css';
 import './Movies2022.css';
-// import MoviesPerDay from "../../component/MoviesPerDay/MoviesPerDay";
-
 
 function Movies2022() {
     const moviesByDayArray: MoviesByDay[] = getMoviesByDayWatched2022();
@@ -15,19 +13,23 @@ function Movies2022() {
 
             {moviesByDayArray.map(({ day, movies }, i) => {
                 return (
-
                     <div className="dayPanel">
-                        <h3>{day}</h3>
+
+                        <div className="dayMonthLabel">
+                            <span className="spacer"></span>
+                            <span className="monthLabel">OCT</span>
+                            <span className="dayLabel">{day}</span>
+                        </div>
+
+
                         <div className="movies">
-                    {movies.map((movie: Movie, i) => (
-                        <p><a href={"https://www.imdb.com/title/"+ movie.imdbId + "/"}><strong>{movie.name}</strong> ({movie.year})</a></p>
-                        ))}
+                            {movies.map((movie: Movie, i) => (
+                                <p><a href={"https://www.imdb.com/title/"+ movie.imdbId + "/"}><strong>{movie.name}</strong> ({movie.year})</a></p>
+                            ))}
                         </div>
                     </div>
-
                 );
             })}
-
         </div>
     )
 }

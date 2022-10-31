@@ -10,8 +10,31 @@ h2 {
 
 }
 
-.dayPanel h3 {
-    width: 100px;
+.dayPanel .dayMonthLabel {
+    display: flex;
+    width: 120px;
+    color: #ccc;
+
+}
+
+.dayPanel .dayMonthLabel .spacer {
+    flex: 1;
+}
+
+.dayPanel .dayMonthLabel .monthLabel {
+    /*width: 40px;*/
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    height: auto;
+    text-align: start;
+    margin-top: 18px;
+    width: auto;
+    font-weight: bold;
+}
+
+.dayPanel .dayMonthLabel .dayLabel {
+    /*width: 100px;*/
+    width: auto;
     margin: 8px 12px 0 0;
     font-size: 75px;
     line-height: 1;
