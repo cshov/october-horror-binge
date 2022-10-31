@@ -1120,5 +1120,23 @@
     "year": 2022,
     "dateWatched": 30,
     "imdbId": "tt10403420"
+  },
+  {
+    "name": "The Forever Purge",
+    "year": 2021,
+    "dateWatched": 31,
+    "imdbId": "tt10327252"
+  },
+  {
+    "name": "Friday the 13th",
+    "year": 2009,
+    "dateWatched": 31,
+    "imdbId": "tt0758746"
+  },
+  {
+    "name": "The Babadook",
+    "year": 2014,
+    "dateWatched": 31,
+    "imdbId": "tt2321549"
   }
 ]
