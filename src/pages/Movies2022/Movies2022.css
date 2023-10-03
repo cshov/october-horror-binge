@@ -1,8 +1,8 @@
-h2 {
+.ListFrom2022 h2 {
     color: white;
 }
 
-.dayPanel {
+.ListFrom2022 .dayPanel {
     display: flex;
     width: 400px;
     flex-direction: row;
@@ -10,18 +10,18 @@ h2 {
 
 }
 
-.dayPanel .dayMonthLabel {
+.ListFrom2022 .dayPanel .dayMonthLabel {
     display: flex;
     width: 120px;
     color: #ccc;
 
 }
 
-.dayPanel .dayMonthLabel .spacer {
+.ListFrom2022 .dayPanel .dayMonthLabel .spacer {
     flex: 1;
 }
 
-.dayPanel .dayMonthLabel .monthLabel {
+.ListFrom2022 .dayPanel .dayMonthLabel .monthLabel {
     /*width: 40px;*/
     writing-mode: vertical-lr;
     text-orientation: upright;
@@ -32,7 +32,7 @@ h2 {
     font-weight: bold;
 }
 
-.dayPanel .dayMonthLabel .dayLabel {
+.ListFrom2022 .dayPanel .dayMonthLabel .dayLabel {
     /*width: 100px;*/
     width: auto;
     margin: 8px 12px 0 0;
@@ -42,16 +42,16 @@ h2 {
 
 }
 
-.dayPanel .movies {
+.ListFrom2022 .dayPanel .movies {
     flex: 1;
 }
 
-.dayPanel .movies p{
+.ListFrom2022 .dayPanel .movies p{
     align-content: flex-start;
     text-align: left;
 }
 
-.dayPanel .movies p a {
+.ListFrom2022 .dayPanel .movies p a {
 
     text-decoration: none;
     color: #CCC;

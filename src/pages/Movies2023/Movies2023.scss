@@ -1,0 +1,80 @@
+@import '../../globals';
+
+.twentyThree {
+  p {
+    color: $light-jackolantern;
+  }
+
+  .dayPanel {
+    display: flex;
+    width: 400px;
+    flex-direction: row;
+    margin: 0 auto 40px;
+    border: 4px solid $witches-purple;
+    border-radius: 10px;
+    background-color: $light-jackolantern;
+    color: #000;
+
+    &:hover{
+      background-color: #000;
+      color: $light-jackolantern;
+    }
+
+    &:hover .dayMonthLabel{
+      color: $witches-purple;
+    }
+    &:hover .movies p a {
+      color: $light-jackolantern;
+    }
+
+    .dayMonthLabel {
+      display: flex;
+      width: 120px;
+      color: $dark-jackolantern;
+
+      .spacer {
+        flex: 1;
+      }
+
+      .monthLabel {
+        writing-mode: vertical-lr;
+        text-orientation: upright;
+        height: auto;
+        text-align: start;
+        margin: 18px 0;
+        width: auto;
+        font-weight: bold;
+      }
+
+      .day {
+        width: auto;
+        margin: 8px 12px 0 0;
+        font-size: 75px;
+        line-height: 1;
+        text-align: right;
+
+      }
+    }
+
+    .movies {
+      flex: 1;
+
+      p{
+        align-content: flex-start;
+        text-align: left;
+
+        a {
+          text-decoration: none;
+          color: #000;
+          //color: $light-jackolantern;
+
+          &:hover {
+            color: $witches-purple
+          }
+        }
+      }
+    }
+
+  }
+}
+

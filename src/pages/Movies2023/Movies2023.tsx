@@ -1,14 +1,14 @@
 import React from "react";
 import {Movie, MoviesByDay} from "../../models/movie-models";
 import {getMoviesByDayWatched2023, getMoviesTotal2023} from "../../services/movies-query";
-import '../StatsPage/StatsPage.css';
+// import '../StatsPage/StatsPage.css';
 import './Movies2023.css';
 
 function Movies2023() {
     const moviesByDayArray: MoviesByDay[] = getMoviesByDayWatched2023();
 
     return (
-        <div>
+        <div className="twentyThree">
             <p>This is a list of all the horror movies I've watched in October 2023. So far, that list includes <strong>{getMoviesTotal2023()}</strong> different movies.</p>
             {moviesByDayArray.map(({ day, movies }, i) => {
                 return (
@@ -17,7 +17,7 @@ function Movies2023() {
                         <div className="dayMonthLabel">
                             <span className="spacer"></span>
                             <span className="monthLabel">OCT</span>
-                            <span className="dayLabel">{day}</span>
+                            <span className="day">{day}</span>
                         </div>
 
                         <div className="movies">

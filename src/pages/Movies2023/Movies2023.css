@@ -1,58 +1,63 @@
-h2 {
-    color: white;
+.twentyThree p {
+  color: #fd9702;
+}
+.twentyThree .dayPanel {
+  display: flex;
+  width: 400px;
+  flex-direction: row;
+  margin: 0 auto 40px;
+  border: 4px solid #e102ff;
+  border-radius: 10px;
+  background-color: #fd9702;
+  color: #000;
+}
+.twentyThree .dayPanel:hover {
+  background-color: #000;
+  color: #fd9702;
+}
+.twentyThree .dayPanel:hover .dayMonthLabel {
+  color: #e102ff;
+}
+.twentyThree .dayPanel:hover .movies p a {
+  color: #fd9702;
+}
+.twentyThree .dayPanel .dayMonthLabel {
+  display: flex;
+  width: 120px;
+  color: #ff7100;
+}
+.twentyThree .dayPanel .dayMonthLabel .spacer {
+  flex: 1;
+}
+.twentyThree .dayPanel .dayMonthLabel .monthLabel {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  height: auto;
+  text-align: start;
+  margin: 18px 0;
+  width: auto;
+  font-weight: bold;
+}
+.twentyThree .dayPanel .dayMonthLabel .day {
+  width: auto;
+  margin: 8px 12px 0 0;
+  font-size: 75px;
+  line-height: 1;
+  text-align: right;
+}
+.twentyThree .dayPanel .movies {
+  flex: 1;
+}
+.twentyThree .dayPanel .movies p {
+  align-content: flex-start;
+  text-align: left;
+}
+.twentyThree .dayPanel .movies p a {
+  text-decoration: none;
+  color: #000;
+}
+.twentyThree .dayPanel .movies p a:hover {
+  color: #e102ff;
 }
 
-.dayPanel {
-    display: flex;
-    width: 400px;
-    flex-direction: row;
-    margin: 0 auto 40px;
-
-}
-
-.dayPanel .dayMonthLabel {
-    display: flex;
-    width: 120px;
-    color: #ccc;
-
-}
-
-.dayPanel .dayMonthLabel .spacer {
-    flex: 1;
-}
-
-.dayPanel .dayMonthLabel .monthLabel {
-    /*width: 40px;*/
-    writing-mode: vertical-lr;
-    text-orientation: upright;
-    height: auto;
-    text-align: start;
-    margin-top: 18px;
-    width: auto;
-    font-weight: bold;
-}
-
-.dayPanel .dayMonthLabel .dayLabel {
-    /*width: 100px;*/
-    width: auto;
-    margin: 8px 12px 0 0;
-    font-size: 75px;
-    line-height: 1;
-    text-align: right;
-
-}
-
-.dayPanel .movies {
-    flex: 1;
-}
-
-.dayPanel .movies p{
-    align-content: flex-start;
-    text-align: left;
-}
-
-.dayPanel .movies p a {
-
-    text-decoration: none;
-    color: #CCC;
-}
+/*# sourceMappingURL=Movies2023.css.map */

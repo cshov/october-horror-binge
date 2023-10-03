@@ -8,7 +8,7 @@ function Movies2022() {
     const moviesByDayArray: MoviesByDay[] = getMoviesByDayWatched2022();
 
     return (
-        <div>
+        <div className="ListFrom2022">
             <p>This is a list of all the horror movies I've watched in October 2022. So far, that list includes <strong>{getMoviesTotal2022()}</strong> different movies.</p>
             {moviesByDayArray.map(({ day, movies }, i) => {
                 return (

@@ -3,26 +3,22 @@
   max-width: 1000px;
   margin: 0 auto;
 }
-
-.App-logo {
+.App .App-logo {
   height: 200px;
   pointer-events: none;
 }
-
 @media only screen and (max-width: 600px) {
-  .App-logo {
+  .App .App-logo {
     height: 100px;
   }
 }
-
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .App .App-logo {
     animation: App-logo-spin infinite 3s linear;
   }
 }
-
-.App-header {
-  background-color: #333333;
+.App .App-header {
+  background-color: #ff7100;
   height: 200px;
   display: flex;
   flex-direction: row;
@@ -30,45 +26,39 @@
   justify-content: center;
   color: white;
 }
-
-h1 {
+.App h1 {
+  color: #000;
   font-size: 52px;
 }
-
-h2 {
+.App h2 {
   font-size: 32px;
 }
-
-h3 {
+.App h3 {
   color: #CCC;
   font-size: 32px;
 }
-
-p {
+.App p {
   color: white;
 }
-
-.App-link {
+.App .App-link {
   color: #61dafb;
 }
-
-.navMenu {
+.App .navMenu {
   display: flex;
   margin: 8px 0 32px;
-  background-color: #333;
 }
-
-.navMenu a {
+.App .navMenu a {
   flex: 1;
-  /*margin: 4px;*/
+  margin: 4px;
   padding: 10px;
   font-weight: bold;
-  background: #333;
-  color: #CCC;
+  background: #fd9702;
+  text-decoration: none;
+  color: #000;
 }
-
-.navMenu a:last-child {
-  /*margin-right: 4px;*/
+.App .navMenu a:hover {
+  background: none;
+  color: #fd9702;
 }
 
 @keyframes App-logo-spin {
@@ -79,3 +69,5 @@ p {
     transform: rotate(360deg);
   }
 }
+
+/*# sourceMappingURL=App.css.map */

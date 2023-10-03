@@ -1,5 +1,11 @@
 [
   {
+    "name": "Rabid",
+    "year": 1977,
+    "dateWatched": 1,
+    "imdbId": "tt0076590"
+  },
+  {
     "name": "Hatchet",
     "year": 2006,
     "dateWatched": 2,
@@ -22,5 +28,17 @@
     "year": 2017,
     "dateWatched": 2,
     "imdbId": "tt5534434"
+  },
+  {
+    "name": "They Live",
+    "year": 1988,
+    "dateWatched": 2,
+    "imdbId": "tt0096256"
+  },
+  {
+    "name": "Maniac Cop",
+    "year": 1988,
+    "dateWatched": 2,
+    "imdbId": "tt0095583"
   }
 ]

@@ -1,0 +1,87 @@
+@import './globals';
+
+.App {
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+
+  .App-logo {
+    height: 200px;
+    pointer-events: none;
+
+    @media only screen and (max-width: 600px) {
+      height: 100px;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      animation: App-logo-spin infinite 3s linear;
+    }
+  }
+
+  .App-header {
+    background-color: $dark-jackolantern;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+
+  h1 {
+    color: #000;
+    font-size: 52px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+
+  h3 {
+    color: #CCC;
+    font-size: 32px;
+  }
+
+  p {
+    color: white;
+  }
+
+  .App-link {
+    color: #61dafb;
+  }
+
+  .navMenu {
+    display: flex;
+    margin: 8px 0 32px;
+    //background-color: $light-jackolantern;
+
+    a {
+      flex: 1;
+      margin: 4px;
+      padding: 10px;
+      font-weight: bold;
+      background: $light-jackolantern;
+      text-decoration: none;
+      color: #000;
+
+      &:hover {
+        background: none;
+        color: $light-jackolantern;
+      }
+    }
+  }
+}
+
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
