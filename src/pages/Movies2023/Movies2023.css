@@ -6,10 +6,14 @@
   width: 400px;
   flex-direction: row;
   margin: 0 auto 40px;
-  border: 4px solid #e102ff;
   border-radius: 10px;
-  background-color: #fd9702;
+  background: linear-gradient(180deg, #ff7100 0%, #fd9702 70%);
+  border: 4px solid #ff7100;
   color: #000;
+}
+.twentyThree .dayPanel:hover {
+  border: 4px solid #e102ff;
+  background: linear-gradient(180deg, #e102ff 0%, #fd9702 70%);
 }
 .twentyThree .dayPanel:hover {
   background-color: #000;
@@ -17,9 +21,6 @@
 }
 .twentyThree .dayPanel:hover .dayMonthLabel {
   color: #e102ff;
-}
-.twentyThree .dayPanel:hover .movies p a {
-  color: #fd9702;
 }
 .twentyThree .dayPanel .dayMonthLabel {
   display: flex;
@@ -57,7 +58,7 @@
   color: #000;
 }
 .twentyThree .dayPanel .movies p a:hover {
-  color: #e102ff;
+  color: #fff;
 }
 
 /*# sourceMappingURL=Movies2023.css.map */
