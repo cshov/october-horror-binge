@@ -40,5 +40,23 @@
     "year": 1988,
     "dateWatched": 2,
     "imdbId": "tt0095583"
+  },
+  {
+    "name": "Vicious Fun",
+    "year": 2020,
+    "dateWatched": 3,
+    "imdbId": "tt11778118"
+  },
+  {
+    "name": "Re-Animator",
+    "year": 1985,
+    "dateWatched": 3,
+    "imdbId": "tt0089885"
+  },
+  {
+    "name": "Bride of Re-Animator",
+    "year": 1990,
+    "dateWatched": 3,
+    "imdbId": "tt0099180"
   }
 ]
