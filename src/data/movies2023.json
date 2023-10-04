@@ -58,5 +58,17 @@
     "year": 1990,
     "dateWatched": 3,
     "imdbId": "tt0099180"
+  },
+  {
+    "name": "The Babysitter",
+    "year": 2017,
+    "dateWatched": 3,
+    "imdbId": "tt4225622"
+  },
+  {
+    "name": "The Babysitter: Killer Queen",
+    "year": 2020,
+    "dateWatched": 3,
+    "imdbId": "tt11024272"
   }
 ]

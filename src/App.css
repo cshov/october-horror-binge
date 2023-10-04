@@ -1,4 +1,9 @@
+body {
+  background: linear-gradient(180deg, #e102ff 0%, #ff7100 30%, #fd9702 80%);
+}
+
 .App {
+  background-color: #000;
   text-align: center;
   max-width: 1000px;
   margin: 0 auto;
@@ -18,7 +23,7 @@
   }
 }
 .App .App-header {
-  background-color: #ff7100;
+  background: linear-gradient(180deg, #e102ff 0%, #ff7100 80%, #fd9702 95%);
   height: 200px;
   display: flex;
   flex-direction: row;
@@ -26,9 +31,24 @@
   justify-content: center;
   color: white;
 }
+@media only screen and (max-width: 600px) {
+  .App .App-header {
+    height: 140px;
+  }
+}
 .App h1 {
   color: #000;
   font-size: 52px;
+}
+@media only screen and (max-width: 800px) {
+  .App h1 {
+    font-size: 40px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .App h1 {
+    font-size: 32px;
+  }
 }
 .App h2 {
   font-size: 32px;
@@ -45,11 +65,9 @@
 }
 .App .navMenu {
   display: flex;
-  margin: 8px 0 32px;
 }
 .App .navMenu a {
   flex: 1;
-  margin: 4px;
   padding: 10px;
   font-weight: bold;
   background: #fd9702;

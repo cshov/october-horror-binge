@@ -1,6 +1,12 @@
 @import './globals';
 
+body {
+  //background-color: $witches-purple;
+  background: linear-gradient(180deg, $witches-purple 0%, $dark-jackolantern 30%, $light-jackolantern 80%);
+}
+
 .App {
+  background-color: #000;
   text-align: center;
   max-width: 1000px;
   margin: 0 auto;
@@ -19,18 +25,32 @@
   }
 
   .App-header {
-    background-color: $dark-jackolantern;
+    //background-color: $dark-jackolantern;
+    background: linear-gradient(180deg, $witches-purple 0%, $dark-jackolantern 80%, $light-jackolantern 95%);
     height: 200px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     color: white;
+
+    @media only screen and (max-width: 600px) {
+      height: 140px;
+    }
   }
 
   h1 {
     color: #000;
     font-size: 52px;
+
+    @media only screen and (max-width: 800px) {
+      font-size: 40px;
+    }
+
+    @media only screen and (max-width: 600px) {
+      font-size: 32px
+    }
+
   }
 
   h2 {
@@ -52,12 +72,12 @@
 
   .navMenu {
     display: flex;
-    margin: 8px 0 32px;
+    //margin: 8px 0 0;
     //background-color: $light-jackolantern;
 
     a {
       flex: 1;
-      margin: 4px;
+      //margin: 4px;
       padding: 10px;
       font-weight: bold;
       background: $light-jackolantern;
