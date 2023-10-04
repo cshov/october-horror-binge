@@ -88,5 +88,23 @@
     "year": 2019,
     "dateWatched": 3,
     "imdbId": "tt8368406"
+  },
+  {
+    "name": "Lost Boys",
+    "year": 1987,
+    "dateWatched": 4,
+    "imdbId": "tt0093437"
+  },
+  {
+    "name": "Silence of the Lambs",
+    "year": 1991,
+    "dateWatched": 4,
+    "imdbId": "tt0102926"
+  },
+  {
+    "name": "8 Legged Freaks",
+    "year": 2002,
+    "dateWatched": 4,
+    "imdbId": "tt0271367"
   }
 ]
