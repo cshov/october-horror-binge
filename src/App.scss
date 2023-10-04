@@ -85,7 +85,9 @@ body {
       color: #000;
 
       &:hover {
-        background: none;
+        background: linear-gradient(180deg, rgb(253,151,2,1) 0%, rgb(253,151,2,0.7) 30%, rgb(253,151,2,0.3) 50%, rgb(253,151,2,0) 70%);
+
+        //background: none;
         color: $light-jackolantern;
       }
     }
