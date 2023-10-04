@@ -51,9 +51,19 @@ export function getMoviesByDayWatched2022(): MoviesByDay[] {
 }
 
 export function getMoviesByDayWatched2023(): MoviesByDay[] {
+
+    let numberOfDaysPassedInOctoberSoFar = 0;
+
+    const now = new Date();
+    if (now.getFullYear() === 2023 && now.getMonth() === 9) {
+        numberOfDaysPassedInOctoberSoFar = now.getDate();
+    } else {
+        numberOfDaysPassedInOctoberSoFar = 31;
+    }
+
     let days: MoviesByDay[] = [];
 
-    for (let i = 1; i <= 31; i += 1) {
+    for (let i = 1; i <= numberOfDaysPassedInOctoberSoFar; i += 1) {
         days.push({day: i, movies: getMoviesForDay2023(i)});
     }
 
