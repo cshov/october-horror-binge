@@ -136,5 +136,35 @@
     "year": 2022,
     "dateWatched": 4,
     "imdbId": "tt10403420"
+  },
+  {
+    "name": "Saw",
+    "year": 2004,
+    "dateWatched": 5,
+    "imdbId": "tt0387564"
+  },
+  {
+    "name": "Saw 2",
+    "year": 2005,
+    "dateWatched": 5,
+    "imdbId": "tt0432348"
+  },
+  {
+    "name": "House on Haunted Hill",
+    "year": 1959,
+    "dateWatched": 5,
+    "imdbId": "tt0051744"
+  },
+  {
+    "name": "Tucker & Dale Vs Evil",
+    "year": 2010,
+    "dateWatched": 5,
+    "imdbId": "tt1465522"
+  },
+  {
+    "name": "Haunt",
+    "year": 2019,
+    "dateWatched": 5,
+    "imdbId": "tt6535880"
   }
 ]
