@@ -11,7 +11,7 @@
   flex-direction: row;
   margin: 0 auto 40px;
   border-radius: 10px;
-  background: linear-gradient(180deg, #ff7100 0%, #fd9702 70%);
+  background: linear-gradient(180deg, #ff7100 0%, #fd9702 64px);
   border: 4px solid #ff7100;
   color: #000;
 }
@@ -35,6 +35,7 @@
   display: flex;
   width: 120px;
   color: #ff7100;
+  text-shadow: 1px 1px #000;
 }
 @media only screen and (max-width: 500px) {
   .twentyThree .dayPanel .dayMonthLabel {

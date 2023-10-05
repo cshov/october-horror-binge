@@ -106,5 +106,35 @@
     "year": 2002,
     "dateWatched": 4,
     "imdbId": "tt0271367"
+  },
+  {
+    "name": "Jennifer's Body",
+    "year": 2009,
+    "dateWatched": 4,
+    "imdbId": "tt1131734"
+  },
+  {
+    "name": "The Cabin in the Woods",
+    "year": 2011,
+    "dateWatched": 4,
+    "imdbId": "tt1259521"
+  },
+  {
+    "name": "Nightmare on Elm Street",
+    "year": 1984,
+    "dateWatched": 4,
+    "imdbId": "tt0087800"
+  },
+  {
+    "name": "Terrifier",
+    "year": 2016,
+    "dateWatched": 4,
+    "imdbId": "tt4281724"
+  },
+  {
+    "name": "Terrifier 2",
+    "year": 2022,
+    "dateWatched": 4,
+    "imdbId": "tt10403420"
   }
 ]

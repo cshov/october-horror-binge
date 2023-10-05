@@ -14,7 +14,7 @@
     flex-direction: row;
     margin: 0 auto 40px;
     border-radius: 10px;
-    background: linear-gradient(180deg, $dark-jackolantern 0%, $light-jackolantern 70%); //, #000 100%);
+    background: linear-gradient(180deg, $dark-jackolantern 0%, $light-jackolantern 64px); //, #000 100%);
     border: 4px solid $dark-jackolantern;
     color: #000;
 
@@ -44,6 +44,7 @@
       display: flex;
       width: 120px;
       color: $dark-jackolantern;
+      text-shadow: 1px 1px #000;
 
       @media only screen and (max-width: 500px) {
         width: 100px;
