@@ -184,5 +184,41 @@
     "year": 1979,
     "dateWatched": 5,
     "imdbId": "tt0080057"
+  },
+  {
+    "name": "The Stuff",
+    "year": 1985,
+    "dateWatched": 6,
+    "imdbId": "tt0090094"
+  },
+  {
+    "name": "The Return of the Living Dead",
+    "year": 1985,
+    "dateWatched": 6,
+    "imdbId": "tt0089907"
+  },
+  {
+    "name": "Scream",
+    "year": 1996,
+    "dateWatched": 6,
+    "imdbId": "tt0117571"
+  },
+  {
+    "name": "Scream 2",
+    "year": 1997,
+    "dateWatched": 6,
+    "imdbId": "tt0120082"
+  },
+  {
+    "name": "Scream 3",
+    "year": 2000,
+    "dateWatched": 6,
+    "imdbId": "tt0134084"
+  },
+  {
+    "name": "Scream 4",
+    "year": 2011,
+    "dateWatched": 6,
+    "imdbId": "tt1262416"
   }
 ]
