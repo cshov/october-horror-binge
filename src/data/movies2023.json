@@ -166,5 +166,23 @@
     "year": 2019,
     "dateWatched": 5,
     "imdbId": "tt6535880"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "year": 1968,
+    "dateWatched": 5,
+    "imdbId": "tt0063350"
+  },
+  {
+    "name": "Killer Klowns from Outer space",
+    "year": 1988,
+    "dateWatched": 5,
+    "imdbId": "tt0095444"
+  },
+  {
+    "name": "Zombie",
+    "year": 1979,
+    "dateWatched": 5,
+    "imdbId": "tt0080057"
   }
 ]
