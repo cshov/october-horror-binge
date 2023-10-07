@@ -232,5 +232,29 @@
     "year": 2023,
     "dateWatched": 6,
     "imdbId": "tt17663992"
+  },
+  {
+    "name": "Frankenstein",
+    "year": 1931,
+    "dateWatched": 7,
+    "imdbId": "tt0021884"
+  },
+  {
+    "name": "Bride of Frankenstein",
+    "year": 1935,
+    "dateWatched": 7,
+    "imdbId": "tt0026138"
+  },
+  {
+    "name": "Chopping Mall",
+    "year": 1986,
+    "dateWatched": 7,
+    "imdbId": "tt0090837"
+  },
+  {
+    "name": "Jack Frost",
+    "year": 1997,
+    "dateWatched": 7,
+    "imdbId": "tt0116671"
   }
 ]
