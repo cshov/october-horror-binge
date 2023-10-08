@@ -268,5 +268,24 @@
     "year": 2005,
     "dateWatched": 7,
     "imdbId": "tt0364376"
+  },
+  {
+    "name": "Winnie the Pooh: Blood and Honey",
+    "year": 2023,
+    "dateWatched": 7,
+    "imdbId": "tt19623240"
+  },
+  {
+    "name": "Evil Bong",
+    "year": 2006,
+    "dateWatched": 8,
+    "imdbId": "tt0829424"
+  },
+  {
+    "name": "Puppet Master",
+    "year": 1989,
+    "dateWatched": 8,
+    "imdbId": "tt0098143"
   }
+  
 ]
