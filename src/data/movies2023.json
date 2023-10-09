@@ -328,5 +328,23 @@
     "year": 1997,
     "dateWatched": 8,
     "imdbId": "tt0120524"
+  },
+  {
+    "name": "From Beyond",
+    "year": 1986,
+    "dateWatched": 9,
+    "imdbId": "tt0091083"
+  },
+  {
+    "name": "The Beyond",
+    "year": 1981,
+    "dateWatched": 9,
+    "imdbId": "tt0082307"
+  },
+  {
+    "name": "Sleepaway Camp",
+    "year": 1983,
+    "dateWatched": 9,
+    "imdbId": "tt0086320"
   }
 ]
