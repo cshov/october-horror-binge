@@ -286,6 +286,41 @@
     "year": 1989,
     "dateWatched": 8,
     "imdbId": "tt0098143"
+  },
+  {
+    "name": "The Fog",
+    "year": 1980,
+    "dateWatched": 8,
+    "imdbId": "tt0080749"
+  },
+  {
+    "name": "Dr. Giggles",
+    "year": 1992,
+    "dateWatched": 8,
+    "imdbId": "tt0104139"
+  },
+  {
+    "name": "The Dentist",
+    "year": 1996,
+    "dateWatched": 8,
+    "imdbId": "tt0116075"
+  },
+  {
+    "name": "Phantasm",
+    "year": 1979,
+    "dateWatched": 8,
+    "imdbId": "tt0079714"
+  },
+  {
+    "name": "House of 1000 Corpses",
+    "year": 2003,
+    "dateWatched": 8,
+    "imdbId": "tt0251736"
+  },
+  {
+    "name": "Hellraiser",
+    "year": 1987,
+    "dateWatched": 8,
+    "imdbId": "tt0093177"
   }
-  
 ]
