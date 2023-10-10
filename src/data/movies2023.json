@@ -346,5 +346,29 @@
     "year": 1983,
     "dateWatched": 9,
     "imdbId": "tt0086320"
+  },
+  {
+    "name": "Slumber Party Massacre",
+    "year": 1982,
+    "dateWatched": 9,
+    "imdbId": "tt0084695"
+  },
+  {
+    "name": "Slumber Party Massacre 2",
+    "year": 1987,
+    "dateWatched": 9,
+    "imdbId": "tt0093996"
+  },
+  {
+    "name": "Castle Freak",
+    "year": 1995,
+    "dateWatched": 9,
+    "imdbId": "tt0112643"
+  },
+  {
+    "name": "Tourist Trap",
+    "year": 1979,
+    "dateWatched": 9,
+    "imdbId": "tt0080040"
   }
 ]
