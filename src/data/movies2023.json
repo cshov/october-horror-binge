@@ -388,5 +388,29 @@
     "year": 1990,
     "dateWatched": 9,
     "imdbId": "tt0099611"
+  },
+  {
+    "name": "Ice Cream Man",
+    "year": 1995,
+    "dateWatched": 10,
+    "imdbId": "tt0113376"
+  },
+  {
+    "name": "Uncle Sam",
+    "year": 1996,
+    "dateWatched": 10,
+    "imdbId": "tt0118025"
+  },
+  {
+    "name": "Blood Harvest",
+    "year": 1987,
+    "dateWatched": 10,
+    "imdbId": "tt0092671"
+  },
+  {
+    "name": "The Hills Have Eyes",
+    "year": 1977,
+    "dateWatched": 10,
+    "imdbId": "tt0077681"
   }
 ]
