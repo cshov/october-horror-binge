@@ -442,5 +442,23 @@
     "year": 2019,
     "dateWatched": 10,
     "imdbId": "tt7521214"
+  },
+  {
+    "name": "Ginger Snaps",
+    "year": 2000,
+    "dateWatched": 11,
+    "imdbId": "tt0210070"
+  },
+  {
+    "name": "The Gate",
+    "year": 1987,
+    "dateWatched": 11,
+    "imdbId": "tt0093075"
+  },
+  {
+    "name": "House",
+    "year": 1985,
+    "dateWatched": 11,
+    "imdbId": "tt0091223"
   }
 ]
