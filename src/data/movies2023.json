@@ -412,5 +412,23 @@
     "year": 1977,
     "dateWatched": 10,
     "imdbId": "tt0077681"
+  },
+  {
+    "name": "The Crazies",
+    "year": 1973,
+    "dateWatched": 10,
+    "imdbId": "tt0069895"
+  },
+  {
+    "name": "Child's Play",
+    "year": 1988,
+    "dateWatched": 10,
+    "imdbId": "tt0094862"
+  },
+  {
+    "name": "Slaxx",
+    "year": 2020,
+    "dateWatched": 10,
+    "imdbId": "tt9741310"
   }
 ]
