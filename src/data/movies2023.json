@@ -460,5 +460,23 @@
     "year": 1985,
     "dateWatched": 11,
     "imdbId": "tt0091223"
+  },
+  {
+    "name": "Demons",
+    "year": 1985,
+    "dateWatched": 11,
+    "imdbId": "tt0089013"
+  },
+  {
+    "name": "Demons 2",
+    "year": 1986,
+    "dateWatched": 11,
+    "imdbId": "tt0090930"
+  },
+  {
+    "name": "Cannibal Holocaust",
+    "year": 1980,
+    "dateWatched": 11,
+    "imdbId": "tt0078935"
   }
 ]
