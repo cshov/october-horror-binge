@@ -478,5 +478,17 @@
     "year": 1980,
     "dateWatched": 11,
     "imdbId": "tt0078935"
+  },
+  {
+    "name": "Psycho",
+    "year": 1960,
+    "dateWatched": 11,
+    "imdbId": "tt0054215"
+  },
+  {
+    "name": "It Stains The Sands Red",
+    "year": 2016,
+    "dateWatched": 13,
+    "imdbId": "tt5735280"
   }
 ]
