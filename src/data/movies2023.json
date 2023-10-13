@@ -544,5 +544,11 @@
     "year": 1986,
     "dateWatched": 12,
     "imdbId": "tt0091064"
+  },
+  {
+    "name": "Friday the 13th",
+    "year": 1980,
+    "dateWatched": 13,
+    "imdbId": "tt0080761"
   }
 ]
