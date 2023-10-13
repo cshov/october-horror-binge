@@ -520,5 +520,23 @@
     "year": 2000,
     "dateWatched": 12,
     "imdbId": "tt0195714"
+  },
+  {
+    "name": "Carrie",
+    "year": 1976,
+    "dateWatched": 12,
+    "imdbId": "tt0074285"
+  },
+  {
+    "name": "The Descent",
+    "year": 2005,
+    "dateWatched": 12,
+    "imdbId": "tt0435625"
+  },
+  {
+    "name": "The Descent: Part 2",
+    "year": 2009,
+    "dateWatched": 12,
+    "imdbId": "tt1073105"
   }
 ]
