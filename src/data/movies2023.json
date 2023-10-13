@@ -556,5 +556,17 @@
     "year": 1981,
     "dateWatched": 13,
     "imdbId": "tt0082418"
+  },
+  {
+    "name": "Friday the 13th Part III",
+    "year": 1982,
+    "dateWatched": 13,
+    "imdbId": "tt0083972"
+  },
+  {
+    "name": "Friday the 13th: The Final Chapter",
+    "year": 1984,
+    "dateWatched": 13,
+    "imdbId": "tt0087298"
   }
 ]
