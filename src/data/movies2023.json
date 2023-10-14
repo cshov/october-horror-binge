@@ -580,5 +580,17 @@
     "year": 1986,
     "dateWatched": 13,
     "imdbId": "tt0091080"
+  },
+  {
+    "name": "Friday the 13th Part VII: The New Blood",
+    "year": 1988,
+    "dateWatched": 13,
+    "imdbId": "tt0095179"
+  },
+  {
+    "name": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "year": 1989,
+    "dateWatched": 13,
+    "imdbId": "tt0097388"
   }
 ]
