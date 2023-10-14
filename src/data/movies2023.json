@@ -619,8 +619,14 @@
   },
   {
     "name": "The Invisible Man",
-    "year": 2000,
+    "year": 2020,
     "dateWatched": 14,
     "imdbId": "tt1051906"
+  },
+  {
+    "name": "The Black Phone",
+    "year": 2021,
+    "dateWatched": 14,
+    "imdbId": "tt7144666"
   }
 ]
