@@ -658,5 +658,35 @@
     "year": 1941,
     "dateWatched": 15,
     "imdbId": "tt0034398"
+  },
+  {
+    "name": "Vampires vs the Bronx",
+    "year": 2020,
+    "dateWatched": 15,
+    "imdbId": "tt8976576"
+  },
+  {
+    "name": "Nobody Sleeps in the Woods Tonight",
+    "year": 2020,
+    "dateWatched": 15,
+    "imdbId": "tt11240506"
+  },
+  {
+    "name": "Fear Street: Part One - 1994",
+    "year": 2021,
+    "dateWatched": 15,
+    "imdbId": "tt6566576"
+  },
+  {
+    "name": "Fear Street: Part Two - 1978",
+    "year": 2021,
+    "dateWatched": 15,
+    "imdbId": "tt9701940"
+  },
+  {
+    "name": "Fear Street: Part Three - 1666",
+    "year": 2021,
+    "dateWatched": 15,
+    "imdbId": "tt9701942"
   }
 ]
