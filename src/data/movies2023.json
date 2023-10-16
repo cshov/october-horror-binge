@@ -724,5 +724,23 @@
     "year": 1998,
     "dateWatched": 16,
     "imdbId": "tt0130018"
+  },
+  {
+    "name": "Barbarian",
+    "year": 2022,
+    "dateWatched": 16,
+    "imdbId": "tt15791034"
+  },
+  {
+    "name": "The People Under the Stairs",
+    "year": 1991,
+    "dateWatched": 16,
+    "imdbId": "tt0105121"
+  },
+  {
+    "name": "Black Christmas",
+    "year": 1974,
+    "dateWatched": 16,
+    "imdbId": "tt0071222"
   }
 ]
