@@ -790,5 +790,23 @@
     "year": 1985,
     "dateWatched": 17,
     "imdbId": "tt0088993"
+  },
+  {
+    "name": "Land of the Dead",
+    "year": 2005,
+    "dateWatched": 17,
+    "imdbId": "tt0418819"
+  },
+  {
+    "name": "The Stepfather",
+    "year": 1987,
+    "dateWatched": 17,
+    "imdbId": "tt0094035"
+  },
+  {
+    "name": "Stepfather II: Make Room for Daddy",
+    "year": 1989,
+    "dateWatched": 17,
+    "imdbId": "tt0098385"
   }
 ]
