@@ -814,5 +814,23 @@
     "year": 2021,
     "dateWatched": 18,
     "imdbId": "tt8114980"
+  },
+  {
+    "name": "Get Out",
+    "year": 2017,
+    "dateWatched": 18,
+    "imdbId": "tt5052448"
+  },
+  {
+    "name": "Us",
+    "year": 2019,
+    "dateWatched": 18,
+    "imdbId": "tt6857112"
+  },
+  {
+    "name": "Renfield",
+    "year": 2023,
+    "dateWatched": 18,
+    "imdbId": "tt11358390"
   }
 ]
