@@ -862,5 +862,23 @@
     "year": 2010,
     "dateWatched": 18,
     "imdbId": "tt1314655"
+  },
+  {
+    "name": "Night of the Demons",
+    "year": 2009,
+    "dateWatched": 19,
+    "imdbId": "tt1268809"
+  },
+  {
+    "name": "The Thing",
+    "year": 2011,
+    "dateWatched": 19,
+    "imdbId": "tt0905372"
+  },
+  {
+    "name": "The Thing",
+    "year": 1982,
+    "dateWatched": 19,
+    "imdbId": "tt0084787"
   }
 ]
