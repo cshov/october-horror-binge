@@ -922,5 +922,41 @@
     "year": 2007,
     "dateWatched": 20,
     "imdbId": "tt1077258"
+  },
+  {
+    "name": "Halloween III: Season of the Witch",
+    "year": 1982,
+    "dateWatched": 20,
+    "imdbId": "tt0085636"
+  },
+  {
+    "name": "Piranha",
+    "year": 1978,
+    "dateWatched": 20,
+    "imdbId": "tt0078087"
+  },
+  {
+    "name": "Piranha",
+    "year": 1995,
+    "dateWatched": 20,
+    "imdbId": "tt0114137"
+  },
+  {
+    "name": "Army of Darkness",
+    "year": 1992,
+    "dateWatched": 20,
+    "imdbId": "tt0106308"
+  },
+  {
+    "name": "All Hallow's Eve",
+    "year": 2013,
+    "dateWatched": 20,
+    "imdbId": "tt2900624"
+  },
+  {
+    "name": "Candyman",
+    "year": 2021,
+    "dateWatched": 20,
+    "imdbId": "tt9347730"
   }
 ]
