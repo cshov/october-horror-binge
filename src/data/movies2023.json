@@ -976,5 +976,23 @@
     "year": 1998,
     "dateWatched": 21,
     "imdbId": "tt0120877"
+  },
+  {
+    "name": "The Faculty",
+    "year": 1998,
+    "dateWatched": 21,
+    "imdbId": "tt0133751"
+  },
+  {
+    "name": "Evil Dead",
+    "year": 2013,
+    "dateWatched": 21,
+    "imdbId": "tt1288558"
+  },
+  {
+    "name": "Halloween",
+    "year": 2018,
+    "dateWatched": 21,
+    "imdbId": "tt1502407"
   }
 ]
