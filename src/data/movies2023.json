@@ -1000,5 +1000,23 @@
     "year": 2021,
     "dateWatched": 21,
     "imdbId": "tt10665338"
+  },
+  {
+    "name": "Halloween Ends",
+    "year": 2022,
+    "dateWatched": 21,
+    "imdbId": "tt10665342"
+  },
+  {
+    "name": "Leprechaun",
+    "year": 1993,
+    "dateWatched": 22,
+    "imdbId": "tt0107387"
+  },
+  {
+    "name": "Leprechaun 2",
+    "year": 1994,
+    "dateWatched": 22,
+    "imdbId": "tt0110329"
   }
 ]
