@@ -1072,5 +1072,23 @@
     "year": 1982,
     "dateWatched": 23,
     "imdbId": "tt0083624"
+  },
+  {
+    "name": "Brain Damage",
+    "year": 1988,
+    "dateWatched": 23,
+    "imdbId": "tt0094793"
+  },
+  {
+    "name": "Body Melt",
+    "year": 1993,
+    "dateWatched": 23,
+    "imdbId": "tt0106450"
+  },
+  {
+    "name": "Texas Chainsaw Massacre 2",
+    "year": 1986,
+    "dateWatched": 23,
+    "imdbId": "tt0092076"
   }
 ]
