@@ -1060,5 +1060,17 @@
     "year": 2022,
     "dateWatched": 22,
     "imdbId": "tt15474916"
+  },
+  {
+    "name": "Cube",
+    "year": 1997,
+    "dateWatched": 23,
+    "imdbId": "tt0123755"
+  },
+  {
+    "name": "Basket Case",
+    "year": 1982,
+    "dateWatched": 23,
+    "imdbId": "tt0083624"
   }
 ]
