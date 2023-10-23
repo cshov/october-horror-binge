@@ -1042,5 +1042,17 @@
     "year": 2003,
     "dateWatched": 22,
     "imdbId": "tt0339294"
+  },
+  {
+    "name": "A Quiet Place",
+    "year": 2018,
+    "dateWatched": 22,
+    "imdbId": "tt6644200"
+  },
+  {
+    "name": "A Quiet Place 2",
+    "year": 2020,
+    "dateWatched": 22,
+    "imdbId": "tt8332922"
   }
 ]
