@@ -1091,10 +1091,40 @@
     "dateWatched": 23,
     "imdbId": "tt0092076"
   },
-  
+  {
     "name": "Hostel",
     "year": 2005,
     "dateWatched": 23,
     "imdbId": "tt0450278"
   },
+  {
+    "name": "Trick 'r Treat",
+    "year": 2007,
+    "dateWatched": 24,
+    "imdbId": "tt0862856"
+  },
+  {
+    "name": "Silver Bullet",
+    "year": 1985,
+    "dateWatched": 24,
+    "imdbId": "tt0090021"
+  },
+  {
+    "name": "From Dusk Till Dawn",
+    "year": 1996,
+    "dateWatched": 24,
+    "imdbId": "tt0116367"
+  },
+  {
+    "name": "Invasion of the Body Snatchers",
+    "year": 1978,
+    "dateWatched": 24,
+    "imdbId": "tt0077745"
+  },
+  {
+    "name": "Thinner",
+    "year": 1996,
+    "dateWatched": 24,
+    "imdbId": "tt0117894"
+  }
 ]
