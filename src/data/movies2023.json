@@ -1126,5 +1126,23 @@
     "year": 1996,
     "dateWatched": 24,
     "imdbId": "tt0117894"
+  },
+  {
+    "name": "It",
+    "year": 2017,
+    "dateWatched": 24,
+    "imdbId": "tt1396484"
+  },
+  {
+    "name": "It Chapter Two",
+    "year": 2019,
+    "dateWatched": 24,
+    "imdbId": "tt7349950"
+  },
+  {
+    "name": "The Nun",
+    "year": 2018,
+    "dateWatched": 24,
+    "imdbId": "tt5814060"
   }
 ]
