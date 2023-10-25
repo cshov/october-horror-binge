@@ -1168,5 +1168,17 @@
     "year": 1973,
     "dateWatched": 25,
     "imdbId": "tt0070047"
+  },
+  {
+    "name": "The Witch",
+    "year": 2015,
+    "dateWatched": 25,
+    "imdbId": "tt4263482"
+  },
+  {
+    "name": "Hereditary",
+    "year": 2018,
+    "dateWatched": 25,
+    "imdbId": "tt7784604"
   }
 ]
