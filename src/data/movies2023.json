@@ -1150,5 +1150,23 @@
     "year": 2018,
     "dateWatched": 24,
     "imdbId": "tt4779682"
+  },
+  {
+    "name": "Poltergeist",
+    "year": 1982,
+    "dateWatched": 25,
+    "imdbId": "tt0084516"
+  },
+  {
+    "name": "The Shining",
+    "year": 1980,
+    "dateWatched": 25,
+    "imdbId": "tt0081505"
+  },
+  {
+    "name": "The Exorcist",
+    "year": 1973,
+    "dateWatched": 25,
+    "imdbId": "tt0070047"
   }
 ]
