@@ -1186,5 +1186,23 @@
     "year": 2003,
     "dateWatched": 25,
     "imdbId": "tt0324216"
+  },
+  {
+    "name": "Nightmare on Elm Street",
+    "year": 2010,
+    "dateWatched": 25,
+    "imdbId": "tt1179056"
+  },
+  {
+    "name": "The Omega Man",
+    "year": 1971,
+    "dateWatched": 25,
+    "imdbId": "tt0067525"
+  },
+  {
+    "name": "Blade",
+    "year": 1998,
+    "dateWatched": 25,
+    "imdbId": "tt0120611"
   }
 ]
