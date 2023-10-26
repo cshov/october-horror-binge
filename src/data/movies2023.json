@@ -1204,5 +1204,17 @@
     "year": 1998,
     "dateWatched": 25,
     "imdbId": "tt0120611"
+  },
+  {
+    "name": "Insidious",
+    "year": 2010,
+    "dateWatched": 26,
+    "imdbId": "tt1591095"
+  },
+  {
+    "name": "Insidious Chapter 2",
+    "year": 2013,
+    "dateWatched": 26,
+    "imdbId": "tt2226417"
   }
 ]
