@@ -1222,5 +1222,29 @@
     "year": 1983,
     "dateWatched": 26,
     "imdbId": "tt0085382"
+  },
+  {
+    "name": "Child's Play",
+    "year": 2019,
+    "dateWatched": 26,
+    "imdbId": "tt8663516"
+  },
+  {
+    "name": "Crawl",
+    "year": 2019,
+    "dateWatched": 26,
+    "imdbId": "tt8364368"
+  },
+  {
+    "name": "Better Watch Out",
+    "year": 2016,
+    "dateWatched": 26,
+    "imdbId": "tt4443658"
+  },
+  {
+    "name": "Halloween",
+    "year": 1978,
+    "dateWatched": 26,
+    "imdbId": "tt0077651"
   }
 ]
