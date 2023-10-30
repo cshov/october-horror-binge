@@ -1424,13 +1424,25 @@
   {
     "name": "Evil Dead Rise",
     "year": 2023,
-    "dateWatched": 29,
+    "dateWatched": 30,
     "imdbId": "tt13345606"
   },
   {
     "name": "Blade II",
     "year": 2002,
-    "dateWatched": 29,
+    "dateWatched": 30,
     "imdbId": "tt0187738"
+  },
+  {
+    "name": "Blade: Trinity",
+    "year": 2004,
+    "dateWatched": 30,
+    "imdbId": "tt0359013"
+  },
+  {
+    "name": "Predator",
+    "year": 1987,
+    "dateWatched": 30,
+    "imdbId": "tt0093773"
   }
 ]
