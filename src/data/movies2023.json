@@ -1474,5 +1474,17 @@
     "year": 1979,
     "dateWatched": 30,
     "imdbId": "tt0078748"
+  },
+  {
+    "name": "Silent Hill",
+    "year": 2006,
+    "dateWatched": 31,
+    "imdbId": "tt0384537"
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "year": 2023,
+    "dateWatched": 31,
+    "imdbId": "tt4589218"
   }
 ]
