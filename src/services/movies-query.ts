@@ -1,6 +1,7 @@
 import Movies from "../data/movies.json";
 import Movies2022 from '../data/movies2022.json';
 import Movies2023 from '../data/movies2023.json';
+import Movies2024 from '../data/movies2024.json';
 import {Movie, MoviesByDay} from "../models/movie-models";
 
 export function getMovies(): Movie[] {
@@ -40,6 +41,10 @@ export function getMoviesForDay2023(dayToCheck: number): Movie[] {
     return [...Movies2023].filter(movie => movie.dateWatched === dayToCheck);
 }
 
+export function getMoviesForDay2024(dayToCheck: number): Movie[] {
+    return [...Movies2024].filter(movie => movie.dateWatched === dayToCheck);
+}
+
 export function getMoviesByDayWatched2022(): MoviesByDay[] {
     let days: MoviesByDay[] = [];
 
@@ -70,12 +75,36 @@ export function getMoviesByDayWatched2023(): MoviesByDay[] {
     return days;
 }
 
+export function getMoviesByDayWatched2024(): MoviesByDay[] {
+
+    let numberOfDaysPassedInOctoberSoFar = 0;
+
+    const now = new Date();
+    if (now.getFullYear() === 2024 && now.getMonth() === 9) {
+        numberOfDaysPassedInOctoberSoFar = now.getDate();
+    } else {
+        numberOfDaysPassedInOctoberSoFar = 31;
+    }
+
+    let days: MoviesByDay[] = [];
+
+    for (let i = 1; i <= numberOfDaysPassedInOctoberSoFar; i += 1) {
+        days.push({day: i, movies: getMoviesForDay2024(i)});
+    }
+
+    return days;
+}
+
 export function getMoviesTotal2022(): number {
     return [...Movies2022].length;
 }
 
 export function getMoviesTotal2023(): number {
     return [...Movies2023].length;
+}
+
+export function getMoviesTotal2024(): number {
+    return [...Movies2024].length;
 }
 
 
