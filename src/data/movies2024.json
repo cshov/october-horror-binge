@@ -142,5 +142,53 @@
     "year": 2021,
     "dateWatched": 4,
     "imdbId": "tt10327252"
+  },
+  {
+    "name": "I Know What You Did Last Summer",
+    "year": 1997,
+    "dateWatched": 5,
+    "imdbId": "tt0119345"
+  },
+  {
+    "name": "I Still Know What You Did Last Summer",
+    "year": 1998,
+    "dateWatched": 5,
+    "imdbId": "tt0130018"
+  },
+  {
+    "name": "I'll Always Know What You Did Last Summer",
+    "year": 2006,
+    "dateWatched": 5,
+    "imdbId": "tt0469111"
+  },
+  {
+    "name": "Wishmaster",
+    "year": 1997,
+    "dateWatched": 6,
+    "imdbId": "tt0120524"
+  },
+  {
+    "name": "Wishmaster 2: Evil Never Dies",
+    "year": 1999,
+    "dateWatched": 6,
+    "imdbId": "tt0156182"
+  },
+  {
+    "name": "Wishmaster 3: Beyond the Gates of Hell",
+    "year": 2001,
+    "dateWatched": 6,
+    "imdbId": "tt0254871"
+  },
+  {
+    "name": "Wishmaster 4: The Prophecy Fulfilled",
+    "year": 2002,
+    "dateWatched": 6,
+    "imdbId": "tt0254872"
+  },
+  {
+    "name": "The Evil Dead",
+    "year": 1981,
+    "dateWatched": 7,
+    "imdbId": "tt0083907"
   }
 ]
