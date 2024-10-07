@@ -162,6 +162,13 @@
     "imdbId": "tt0469111"
   },
   {
+    "name": "Salem's Lot",
+    "year": 2024,
+    "dateWatched": 5,
+    "imdbId": "tt10245072",
+    "wasExtraCredit": true
+  },
+  {
     "name": "Wishmaster",
     "year": 1997,
     "dateWatched": 6,
@@ -190,5 +197,29 @@
     "year": 1981,
     "dateWatched": 7,
     "imdbId": "tt0083907"
+  },
+  {
+    "name": "Evil Dead II",
+    "year": 1987,
+    "dateWatched": 7,
+    "imdbId": "tt0092991"
+  },
+  {
+    "name": "Army of Darkness",
+    "year": 1992,
+    "dateWatched": 7,
+    "imdbId": "tt0106308"
+  },
+  {
+    "name": "Evil Dead",
+    "year": 2013,
+    "dateWatched": 7,
+    "imdbId": "tt1288558"
+  },
+  {
+    "name": "Evil Dead Rise",
+    "year": 2023,
+    "dateWatched": 7,
+    "imdbId": "tt13345606"
   }
 ]

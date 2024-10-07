@@ -7,6 +7,7 @@ export type Movie = {
     series?: string | undefined | null;
     firstTimeView?: any;
     dateWatched: number;
+    wasExtraCredit?: boolean;
 };
 
 export type MoviesByDay = {
