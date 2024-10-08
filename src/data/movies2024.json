@@ -221,5 +221,29 @@
     "year": 2023,
     "dateWatched": 7,
     "imdbId": "tt13345606"
+  },
+  {
+    "name": "Leprechaun",
+    "year": 1993,
+    "dateWatched": 8,
+    "imdbId": "tt0107387"
+  },
+  {
+    "name": "Leprechaun 2",
+    "year": 1994,
+    "dateWatched": 8,
+    "imdbId": "tt0110329"
+  },
+  {
+    "name": "Leprechaun 3",
+    "year": 1995,
+    "dateWatched": 8,
+    "imdbId": "tt0113636"
+  },
+  {
+    "name": "Leprechaun 4: In Space",
+    "year": 1996,
+    "dateWatched": 8,
+    "imdbId": "tt0116861"
   }
 ]
