@@ -251,5 +251,23 @@
     "year": 2000,
     "dateWatched": 8,
     "imdbId": "tt0209095"
+  },
+  {
+    "name": "Leprechaun 6: Back 2 Tha Hood",
+    "year": 2003,
+    "dateWatched": 8,
+    "imdbId": "tt0339294"
+  },
+  {
+    "name": "Leprechaun: Origins",
+    "year": 2014,
+    "dateWatched": 8,
+    "imdbId": "tt2345613"
+  },
+  {
+    "name": "Leprechaun Returns",
+    "year": 2018,
+    "dateWatched": 8,
+    "imdbId": "tt8155182"
   }
 ]
