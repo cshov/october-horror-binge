@@ -269,5 +269,53 @@
     "year": 2018,
     "dateWatched": 8,
     "imdbId": "tt8155182"
+  },
+  {
+    "name": "Childs Play",
+    "year": 1988,
+    "dateWatched": 9,
+    "imdbId": "tt0094862"
+  },
+  {
+    "name": "Childs Play 2",
+    "year": 1990,
+    "dateWatched": 9,
+    "imdbId": "tt0099253"
+  },
+  {
+    "name": "Childs Play 3",
+    "year": 1991,
+    "dateWatched": 9,
+    "imdbId": "tt0103956"
+  },
+  {
+    "name": "Bride of Chucky",
+    "year": 1998,
+    "dateWatched": 9,
+    "imdbId": "tt0144120"
+  },
+  {
+    "name": "Seed of Chucky",
+    "year": 2004,
+    "dateWatched": 9,
+    "imdbId": "tt0387575"
+  },
+  {
+    "name": "Curse of Chucky",
+    "year": 2013,
+    "dateWatched": 9,
+    "imdbId": "tt2230358"
+  },
+  {
+    "name": "Cult of Chucky",
+    "year": 2017,
+    "dateWatched": 9,
+    "imdbId": "tt3280262"
+  },
+  {
+    "name": "Child's Play",
+    "year": 2019,
+    "dateWatched": 9,
+    "imdbId": "tt8663516"
   }
 ]
