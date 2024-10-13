@@ -323,5 +323,66 @@
     "year": 1979,
     "dateWatched": 10,
     "imdbId": "tt0079714"
+  },
+  {
+    "name": "Phantasm 2",
+    "year": 1988,
+    "dateWatched": 10,
+    "imdbId": "tt0095863"
+  },
+  {
+    "name": "Phantasm 3",
+    "year": 1994,
+    "dateWatched": 10,
+    "imdbId": "tt0110823"
+  },
+  {
+    "name": "Phantasm IV: Oblivion",
+    "year": 1998,
+    "dateWatched": 10,
+    "imdbId": "tt0138703"
+  },
+  {
+    "name": "Phantasm Ravager",
+    "year": 2016,
+    "dateWatched": 10,
+    "imdbId": "tt3627704"
+  },
+  {
+    "name": "House of 1000 Corpses",
+    "year": 2003,
+    "dateWatched": 11,
+    "imdbId": "tt0251736"
+  },
+  {
+    "name": "The Devil's Rejects",
+    "year": 2005,
+    "dateWatched": 11,
+    "imdbId": "tt0395584"
+  },
+  {
+    "name": "3 From Hell",
+    "year": 2019,
+    "dateWatched": 11,
+    "imdbId": "tt8134742"
+  },
+  {
+    "name": "Maniac Cop",
+    "year": 1988,
+    "dateWatched": 12,
+    "imdbId": "tt0095583"
+  },
+  {
+    "name": "Maniac Cop 2",
+    "year": 1990,
+    "dateWatched": 12,
+    "imdbId": "tt0100107"
+  },
+  {
+    "name": "Maniac Cop 3: Badge of Silence",
+    "year": 1992,
+    "dateWatched": 12,
+    "imdbId": "tt0104808"
   }
+
 ]
