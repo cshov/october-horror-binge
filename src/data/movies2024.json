@@ -449,5 +449,23 @@
     "year": 2023,
     "dateWatched": 14,
     "imdbId": "tt12921446"
+  },
+  {
+    "name": "Sharknado",
+    "year": 2013,
+    "dateWatched": 15,
+    "imdbId": "tt2724064"
+  },
+  {
+    "name": "Sharknado 2: The Second One",
+    "year": 2014,
+    "dateWatched": 15,
+    "imdbId": "tt3062074"
+  },
+  {
+    "name": "Sharknado 3: Oh Hell No!",
+    "year": 2015,
+    "dateWatched": 15,
+    "imdbId": "tt3899796"
   }
 ]
