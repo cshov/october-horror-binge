@@ -419,5 +419,35 @@
     "year": 1973,
     "dateWatched": 14,
     "imdbId": "tt0070047"
+  },
+  {
+    "name": "Exorcist 2: The Heretic",
+    "year": 1977,
+    "dateWatched": 14,
+    "imdbId": "tt0076009"
+  },
+  {
+    "name": "The Exorcist 3",
+    "year": 1990,
+    "dateWatched": 14,
+    "imdbId": "tt0099528"
+  },
+  {
+    "name": "Exorcist: The Beginning",
+    "year": 2004,
+    "dateWatched": 14,
+    "imdbId": "tt0204313"
+  },
+  {
+    "name": "Dominion: Prequel to the Exorcist",
+    "year": 2005,
+    "dateWatched": 14,
+    "imdbId": "tt0449086"
+  },
+  {
+    "name": "The Exorcist: Believer",
+    "year": 2023,
+    "dateWatched": 14,
+    "imdbId": "tt12921446"
   }
 ]
