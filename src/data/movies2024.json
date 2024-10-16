@@ -467,5 +467,41 @@
     "year": 2015,
     "dateWatched": 15,
     "imdbId": "tt3899796"
+  },
+  {
+    "name": "Sharknado 4: The 4th Awakens",
+    "year": 2015,
+    "dateWatched": 15,
+    "imdbId": "tt4831420"
+  },
+  {
+    "name": "Sharknado 5: Global Swarming",
+    "year": 2015,
+    "dateWatched": 15,
+    "imdbId": "tt6298780"
+  },
+  {
+    "name": "The Last Sharknado: It's About Time",
+    "year": 2015,
+    "dateWatched": 15,
+    "imdbId": "tt8031422"
+  },
+  {
+    "name": "The Return of the Living Dead",
+    "year": 1985,
+    "dateWatched": 16,
+    "imdbId": "tt0089907"
+  },
+  {
+    "name": "Return of the Living Dead 2",
+    "year": 1988,
+    "dateWatched": 16,
+    "imdbId": "tt0095990"
+  },
+  {
+    "name": "Return of the Living Dead 3",
+    "year": 1993,
+    "dateWatched": 16,
+    "imdbId": "tt0107953"
   }
 ]
