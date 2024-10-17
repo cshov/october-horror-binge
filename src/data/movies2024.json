@@ -515,5 +515,29 @@
     "year": 2005,
     "dateWatched": 16,
     "imdbId": "tt0411806"
+  },
+  {
+    "name": "Pet Sematary",
+    "year": 1989,
+    "dateWatched": 17,
+    "imdbId": "tt0098084"
+  },
+  {
+    "name": "Pet Sematary II",
+    "year": 1992,
+    "dateWatched": 17,
+    "imdbId": "tt0105128"
+  },
+  {
+    "name": "Pet Sematary",
+    "year": 2019,
+    "dateWatched": 17,
+    "imdbId": "tt0837563"
+  },
+  {
+    "name": "Pet Sematary: Bloodlines",
+    "year": 2023,
+    "dateWatched": 17,
+    "imdbId": "tt14145436"
   }
 ]
