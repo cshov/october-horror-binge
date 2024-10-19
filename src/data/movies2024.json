@@ -539,5 +539,59 @@
     "year": 2023,
     "dateWatched": 17,
     "imdbId": "tt14145436"
+  },
+  {
+    "name": "Resident Evil",
+    "year": 2002,
+    "dateWatched": 18,
+    "imdbId": "tt0120804"
+  },
+  {
+    "name": "Resident Evil: Apocalypse",
+    "year": 2004,
+    "dateWatched": 18,
+    "imdbId": "tt0318627"
+  },
+  {
+    "name": "Resident Evil: Extinction",
+    "year": 2007,
+    "dateWatched": 18,
+    "imdbId": "tt0432021"
+  },
+  {
+    "name": "Resident Evil: Afterlife",
+    "year": 2010,
+    "dateWatched": 18,
+    "imdbId": "tt1220634"
+  },
+  {
+    "name": "Resident Evil: Retribution",
+    "year": 2012,
+    "dateWatched": 18,
+    "imdbId": "tt1855325"
+  },
+  {
+    "name": "Resident Evil: The Final Chapter",
+    "year": 2016,
+    "dateWatched": 18,
+    "imdbId": "tt2592614"
+  },
+  {
+    "name": "Resident Evil: Welcome to Raccoon City",
+    "year": 2021,
+    "dateWatched": 18,
+    "imdbId": "tt6920084"
+  },
+  {
+    "name": "The Thing",
+    "year": 1982,
+    "dateWatched": 19,
+    "imdbId": "tt0084787"
+  },
+  {
+    "name": "The Thing",
+    "year": 2011,
+    "dateWatched": 19,
+    "imdbId": "tt0905372"
   }
 ]
