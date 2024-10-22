@@ -635,5 +635,23 @@
     "year": 2021,
     "dateWatched": 21,
     "imdbId": "tt13975458"
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 1974,
+    "dateWatched": 22,
+    "imdbId": "tt0072271"
+  },
+  {
+    "name": "Texas Chainsaw Massacre 2",
+    "year": 1986,
+    "dateWatched": 22,
+    "imdbId": "tt0092076"
+  },
+  {
+    "name": "Leatherface: Texas Chainsaw Massacre 3",
+    "year": 1990,
+    "dateWatched": 22,
+    "imdbId": "tt0099994"
   }
 ]
