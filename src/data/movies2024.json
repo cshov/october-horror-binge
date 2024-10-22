@@ -653,5 +653,29 @@
     "year": 1990,
     "dateWatched": 22,
     "imdbId": "tt0099994"
+  },
+  {
+    "name": "Texas Chainsaw Massacre: The Next Generation",
+    "year": 1994,
+    "dateWatched": 22,
+    "imdbId": "tt0110978"
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 2003,
+    "dateWatched": 22,
+    "imdbId": "tt0324216"
+  },
+  {
+    "name": "Texas Chainsaw Massacre: The Beginning",
+    "year": 2006,
+    "dateWatched": 22,
+    "imdbId": "tt0420294"
+  },
+  {
+    "name": "Texas Chainsaw",
+    "year": 2013,
+    "dateWatched": 22,
+    "imdbId": "tt1572315"
   }
 ]
