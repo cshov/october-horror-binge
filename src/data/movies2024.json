@@ -593,5 +593,41 @@
     "year": 2011,
     "dateWatched": 19,
     "imdbId": "tt0905372"
+  },
+  {
+    "name": "Blair Witch Project",
+    "year": 1999,
+    "dateWatched": 20,
+    "imdbId": "tt0185937"
+  },
+  {
+    "name": "Book of Shadows: Blair Witch 2",
+    "year": 2000,
+    "dateWatched": 20,
+    "imdbId": "tt0229260"
+  },
+  {
+    "name": "Blair Witch",
+    "year": 2016,
+    "dateWatched": 20,
+    "imdbId": "tt1540011"
+  },
+  {
+    "name": "Cube",
+    "year": 1997,
+    "dateWatched": 21,
+    "imdbId": "tt0123755"
+  },
+  {
+    "name": "Cube 2: Hypercube",
+    "year": 2002,
+    "dateWatched": 21,
+    "imdbId": "tt0285492"
+  },
+  {
+    "name": "Cube Zero",
+    "year": 2004,
+    "dateWatched": 21,
+    "imdbId": "tt0377713"
   }
 ]
