@@ -681,13 +681,37 @@
   {
     "name": "Leatherface",
     "year": 2017,
-    "dateWatched": 27,
+    "dateWatched": 22,
     "imdbId": "tt2620590"
   },
   {
     "name": "Texas Chainsaw Massacre",
     "year": 2022,
-    "dateWatched": 27,
+    "dateWatched": 22,
     "imdbId": "tt11755740"
+  },
+  {
+    "name": "Candyman",
+    "year": 1992,
+    "dateWatched": 23,
+    "imdbId": "tt0103919"
+  },
+  {
+    "name": "Candyman: Farewell to the Flesh",
+    "year": 1995,
+    "dateWatched": 23,
+    "imdbId": "tt0112625"
+  },
+  {
+    "name": "Candyman: Day of the Dead",
+    "year": 1999,
+    "dateWatched": 23,
+    "imdbId": "tt0165662"
+  },
+  {
+    "name": "Candyman",
+    "year": 2021,
+    "dateWatched": 23,
+    "imdbId": "tt9347730"
   }
 ]
