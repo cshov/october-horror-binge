@@ -755,5 +755,23 @@
     "year": 2020,
     "dateWatched": 24,
     "imdbId": "tt8322060"
+  },
+  {
+    "name": "Pumpkinhead",
+    "year": 1988,
+    "dateWatched": 25,
+    "imdbId": "tt0095925"
+  },
+  {
+    "name": "Pumpkinhead 2: Blood Wings",
+    "year": 1993,
+    "dateWatched": 25,
+    "imdbId": "tt0110913"
+  },
+  {
+    "name": "Pumpkinhead: Ashes to Ashes",
+    "year": 2006,
+    "dateWatched": 25,
+    "imdbId": "tt0780593"
   }
 ]
