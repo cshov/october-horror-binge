@@ -713,5 +713,47 @@
     "year": 2021,
     "dateWatched": 23,
     "imdbId": "tt9347730"
+  },
+  {
+    "name": "Tremors",
+    "year": 1990,
+    "dateWatched": 24,
+    "imdbId": "tt0100814"
+  },
+  {
+    "name": "Tremors 2: Aftershocks",
+    "year": 1996,
+    "dateWatched": 24,
+    "imdbId": "tt0114720"
+  },
+  {
+    "name": "Tremors 3: Back to Perfection",
+    "year": 2001,
+    "dateWatched": 24,
+    "imdbId": "tt0259685"
+  },
+  {
+    "name": "Tremors 4: The Legend Begins",
+    "year": 2004,
+    "dateWatched": 24,
+    "imdbId": "tt0334541"
+  },
+  {
+    "name": "Tremors 5: Bloodlines",
+    "year": 2015,
+    "dateWatched": 24,
+    "imdbId": "tt4180514"
+  },
+  {
+    "name": "Tremors: A Cold Day in Hell",
+    "year": 2018,
+    "dateWatched": 24,
+    "imdbId": "tt6086082"
+  },
+  {
+    "name": "Tremors: Shrieker Island",
+    "year": 2020,
+    "dateWatched": 24,
+    "imdbId": "tt8322060"
   }
 ]
