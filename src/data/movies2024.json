@@ -839,5 +839,29 @@
     "year": 2008,
     "dateWatched": 28,
     "imdbId": "tt0382943"
+  },
+  {
+    "name": "All Hallows' Eve",
+    "year": 2013,
+    "dateWatched": 29,
+    "imdbId": "tt2900624"
+  },
+  {
+    "name": "Terrifier",
+    "year": 2016,
+    "dateWatched": 29,
+    "imdbId": "tt4281724"
+  },
+  {
+    "name": "Terrifier 2",
+    "year": 2022,
+    "dateWatched": 29,
+    "imdbId": "tt10403420"
+  },
+  {
+    "name": "Terrifier 3",
+    "year": 2024,
+    "dateWatched": 29,
+    "imdbId": "tt27911000"
   }
 ]
