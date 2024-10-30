@@ -863,5 +863,35 @@
     "year": 2024,
     "dateWatched": 29,
     "imdbId": "tt27911000"
+  },
+  {
+    "name": "Wrong Turn",
+    "year": 2003,
+    "dateWatched": 30,
+    "imdbId": "tt0295700"
+  },
+  {
+    "name": "Wrong Turn 2: Dead End",
+    "year": 2007,
+    "dateWatched": 30,
+    "imdbId": "tt0804555"
+  },
+  {
+    "name": "Wrong Turn 3: Left for Dead",
+    "year": 2009,
+    "dateWatched": 30,
+    "imdbId": "tt1261978"
+  },
+  {
+    "name": "Wrong Turn 4: Bloody Beginnings",
+    "year": 2011,
+    "dateWatched": 30,
+    "imdbId": "tt1865567"
+  },
+  {
+    "name": "Wrong Turn 5: Bloodlines",
+    "year": 2012,
+    "dateWatched": 30,
+    "imdbId": "tt2375779"
   }
 ]
