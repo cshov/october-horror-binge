@@ -941,5 +941,23 @@
     "year": 1995,
     "dateWatched": 31,
     "imdbId": "tt0113253"
+  },
+  {
+    "name": "Halloween H20: 20 Years Later",
+    "year": 1998,
+    "dateWatched": 31,
+    "imdbId": "tt0120694"
+  },
+  {
+    "name": "Halloween: Resurrection",
+    "year": 2002,
+    "dateWatched": 31,
+    "imdbId": "tt0220506"
+  },
+  {
+    "name": "Halloween",
+    "year": 2018,
+    "dateWatched": 31,
+    "imdbId": "tt1502407"
   }
 ]
