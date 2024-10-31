@@ -923,5 +923,23 @@
     "year": 1982,
     "dateWatched": 31,
     "imdbId": "tt0085636"
+  },
+  {
+    "name": "Halloween 4: The Return of Michael Myers",
+    "year": 1988,
+    "dateWatched": 31,
+    "imdbId": "tt0095271"
+  },
+  {
+    "name": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "dateWatched": 31,
+    "imdbId": "tt0097474"
+  },
+  {
+    "name": "Halloween: The Curse of Michael Myers",
+    "year": 1995,
+    "dateWatched": 31,
+    "imdbId": "tt0113253"
   }
 ]
