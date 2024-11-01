@@ -959,5 +959,17 @@
     "year": 2018,
     "dateWatched": 31,
     "imdbId": "tt1502407"
+  },
+  {
+    "name": "Halloween Kills",
+    "year": 2021,
+    "dateWatched": 31,
+    "imdbId": "tt10665338"
+  },
+  {
+    "name": "Halloween Ends",
+    "year": 2022,
+    "dateWatched": 31,
+    "imdbId": "tt10665342"
   }
 ]
