@@ -2,6 +2,7 @@ import Movies from "../data/movies.json";
 import Movies2022 from '../data/movies2022.json';
 import Movies2023 from '../data/movies2023.json';
 import Movies2024 from '../data/movies2024.json';
+import Movies2025 from '../data/movies2025.json';
 import {Movie, MoviesByDay} from "../models/movie-models";
 
 export function getMovies(): Movie[] {
@@ -43,6 +44,10 @@ export function getMoviesForDay2023(dayToCheck: number): Movie[] {
 
 export function getMoviesForDay2024(dayToCheck: number): Movie[] {
     return [...Movies2024].filter(movie => movie.dateWatched === dayToCheck);
+}
+
+export function getMoviesForDay2025(dayToCheck: number): Movie[] {
+    return [...Movies2025].filter(movie => movie.dateWatched === dayToCheck);
 }
 
 export function getMoviesByDayWatched2022(): MoviesByDay[] {
@@ -105,6 +110,10 @@ export function getMoviesTotal2023(): number {
 
 export function getMoviesTotal2024(): number {
     return [...Movies2024].length;
+}
+
+export function getMoviesTotal2025(): number {
+    return [...Movies2025].length;
 }
 
 

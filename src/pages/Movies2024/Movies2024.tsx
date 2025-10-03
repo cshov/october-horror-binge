@@ -15,7 +15,7 @@ function Movies2024() {
 
             {moviesByDayArray.map(({ day, movies }, i) => {
                 return (
-                    <div className="dayPanel">
+                    <div key={day} className="dayPanel">
 
                         <div className="dayMonthLabel">
                             <span className="spacer"></span>
@@ -25,7 +25,7 @@ function Movies2024() {
 
                         <div className="movies">
                             {movies.map((movie: Movie, i) => (
-                                <p>
+                                <p key={i}>
                                     <a href={"https://www.imdb.com/title/"+ movie.imdbId + "/"}>
                                         <strong>{movie.name}</strong> ({movie.year}){movie.wasExtraCredit ? <sup>*</sup> : ''}
                                     </a>

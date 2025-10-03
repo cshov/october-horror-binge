@@ -1,0 +1,25 @@
+.dayPanel {
+    background-color: #333;
+    padding: 20px;
+
+    h2 {
+        color: #fff;
+        margin: 0 0 20px;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+            color: #fff;
+
+            a {
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+
+}

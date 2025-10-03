@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Scream",
+    "year": 1996,
+    "dateWatched": 1,
+    "imdbId": "tt0117571"
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 1974,
+    "dateWatched": 1,
+    "imdbId": "tt0072271"
+  },
+  {
+    "name": "The Purge",
+    "year": 2013,
+    "dateWatched": 1,
+    "imdbId": "tt2184339"
+  },
+  {
+    "name": "I Know What You Did Last Summer",
+    "year": 1997,
+    "dateWatched": 1,
+    "imdbId": "tt0119345"
+  },
+  {
+    "name": "28 Days Later",
+    "year": 2002,
+    "dateWatched": 1,
+    "imdbId": "tt0289043"
+  },
+  {
+    "name": "28 Weeks Later",
+    "year": 2007,
+    "dateWatched": 1,
+    "imdbId": "tt0463854"
+  },
+  {
+    "name": "28 Years Later",
+    "year": 2025,
+    "dateWatched": 1,
+    "imdbId": "tt10548174"
+  },
+  {
+    "name": "Renfield",
+    "year": 2023,
+    "dateWatched": 1,
+    "imdbId": "tt11358390"
+  },
+  {
+    "name": "Terrifier",
+    "year": 2016,
+    "dateWatched": 2,
+    "imdbId": "tt4281724"
+  },
+  {
+    "name": "Terrifier 2",
+    "year": 2022,
+    "dateWatched": 2,
+    "imdbId": "tt10403420"
+  },
+  {
+    "name": "Terrifier 3",
+    "year": 2024,
+    "dateWatched": 2,
+    "imdbId": "tt27911000"
+  },
+  {
+    "name": "Event Horizon",
+    "year": 1997,
+    "dateWatched": 2,
+    "imdbId": "tt0119081"
+  },
+  {
+    "name": "Scream 2",
+    "year": 1997,
+    "dateWatched": 2,
+    "imdbId": "tt0120082"
+  },
+  {
+    "name": "Scream 3",
+    "year": 2000,
+    "dateWatched": 2,
+    "imdbId": "tt0134084"
+  }
+]
