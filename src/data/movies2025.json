@@ -100,5 +100,47 @@
     "year": 2023,
     "dateWatched": 3,
     "imdbId": "tt17663992"
+  },
+  {
+    "name": "Mute Witness",
+    "year": 1995,
+    "dateWatched": 3,
+    "imdbId": "tt0110604"
+  },
+  {
+    "name": "Final Terror",
+    "year": 1983,
+    "dateWatched": 3,
+    "imdbId": "tt0082379"
+  },
+  {
+    "name": "Sleepaway Camp",
+    "year": 1983,
+    "dateWatched": 4,
+    "imdbId": "tt0086320"
+  },
+  {
+    "name": "M3GAN",
+    "year": 2022,
+    "dateWatched": 4,
+    "imdbId": "tt8760708"
+  },
+  {
+    "name": "The People Under the Stairs",
+    "year": 1991,
+    "dateWatched": 4,
+    "imdbId": "tt0105121"
+  },
+  {
+    "name": "Bram Stoker's Dracula",
+    "year": 1992,
+    "dateWatched": 5,
+    "imdbId": "tt0103874"
+  },
+  {
+    "name": "Phantasm",
+    "year": 1979,
+    "dateWatched": 5,
+    "imdbId": "tt0079714"
   }
 ]
