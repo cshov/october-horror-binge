@@ -142,5 +142,35 @@
     "year": 1979,
     "dateWatched": 5,
     "imdbId": "tt0079714"
+  },
+  {
+    "name": "Phantasm 2",
+    "year": 1988,
+    "dateWatched": 5,
+    "imdbId": "tt0095863"
+  },
+  {
+    "name": "Phantasm 3",
+    "year": 1994,
+    "dateWatched": 5,
+    "imdbId": "tt0110823"
+  },
+  {
+    "name": "Phantasm IV: Oblivion",
+    "year": 1998,
+    "dateWatched": 5,
+    "imdbId": "tt0138703"
+  },
+  {
+    "name": "Phantasm Ravager",
+    "year": 2016,
+    "dateWatched": 5,
+    "imdbId": "tt3627704"
+  },
+  {
+    "name": "The Ring",
+    "year": 2002,
+    "dateWatched": 5,
+    "imdbId": "tt0298130"
   }
 ]
