@@ -172,5 +172,17 @@
     "year": 2002,
     "dateWatched": 5,
     "imdbId": "tt0298130"
+  },
+  {
+    "name": "Psycho",
+    "year": 1960,
+    "dateWatched": 6,
+    "imdbId": "tt0054215"
+  },
+  {
+    "name": "The Birds",
+    "year": 1963,
+    "dateWatched": 6,
+    "imdbId": "tt0056869"
   }
 ]
