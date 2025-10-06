@@ -184,5 +184,17 @@
     "year": 1963,
     "dateWatched": 6,
     "imdbId": "tt0056869"
+  },
+  {
+    "name": "The Raven",
+    "year": 1935,
+    "dateWatched": 6,
+    "imdbId": "tt0026912"
+  },
+  {
+    "name": "Frankenstein",
+    "year": 1931,
+    "dateWatched": 6,
+    "imdbId": "tt0021884"
   }
 ]
