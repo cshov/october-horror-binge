@@ -196,5 +196,17 @@
     "year": 1931,
     "dateWatched": 6,
     "imdbId": "tt0021884"
+  },
+  {
+    "name": "Bride of Frankenstein",
+    "year": 1935,
+    "dateWatched": 6,
+    "imdbId": "tt0026138"
+  },
+  {
+    "name": "The Last Man on Earth",
+    "year": 1964,
+    "dateWatched": 6,
+    "imdbId": "tt0058700"
   }
 ]
