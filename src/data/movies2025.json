@@ -220,5 +220,17 @@
     "year": 1959,
     "dateWatched": 6,
     "imdbId": "tt0051744"
+  },
+  {
+    "name": "The Return of the Living Dead",
+    "year": 1985,
+    "dateWatched": 7,
+    "imdbId": "tt0089907"
+  },
+  {
+    "name": "The Descent",
+    "year": 2005,
+    "dateWatched": 7,
+    "imdbId": "tt0435625"
   }
 ]
