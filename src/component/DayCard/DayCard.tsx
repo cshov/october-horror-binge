@@ -9,7 +9,7 @@ export default class DayCard extends React.Component<{day: number, movies: Movie
             <ul>
                 {this.props.movies.map((movie: Movie, i) => (
                     <li key={i}>
-                        <a href={"https://www.imdb.com/title/"+ movie.imdbId + "/"}>
+                        <a className={styles.movieLink} href={"https://www.imdb.com/title/"+ movie.imdbId + "/"}>
                             <strong>{movie.name}</strong> ({movie.year})
                         </a>
                     </li>

@@ -22,3 +22,8 @@
         }
     }
 }
+
+.movieLink {
+    text-decoration: none;
+    color: #fff;
+}
