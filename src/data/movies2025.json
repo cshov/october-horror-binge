@@ -232,5 +232,41 @@
     "year": 2005,
     "dateWatched": 7,
     "imdbId": "tt0435625"
+  },
+  {
+    "name": "Henry: Portrait of a Serial Killer",
+    "year": 1986,
+    "dateWatched": 7,
+    "imdbId": "tt0099763"
+  },
+  {
+    "name": "Candyman",
+    "year": 1992,
+    "dateWatched": 7,
+    "imdbId": "tt0103919"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "year": 1968,
+    "dateWatched": 7,
+    "imdbId": "tt0063350"
+  },
+  {
+    "name": "Maniac Cop",
+    "year": 1988,
+    "dateWatched": 7,
+    "imdbId": "tt0095583"
+  },
+  {
+    "name": "Maniac Cop 2",
+    "year": 1990,
+    "dateWatched": 7,
+    "imdbId": "tt0100107"
+  },
+  {
+    "name": "Maniac Cop 3: Badge of Silence",
+    "year": 1992,
+    "dateWatched": 7,
+    "imdbId": "tt0104808"
   }
 ]
