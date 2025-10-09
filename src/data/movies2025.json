@@ -304,5 +304,23 @@
     "year": 1987,
     "dateWatched": 8,
     "imdbId": "tt0093996"
+  },
+  {
+    "name": "Sleepaway Camp 2: Unhappy Campers",
+    "year": 1988,
+    "dateWatched": 8,
+    "imdbId": "tt0096118"
+  },
+  {
+    "name": "Nightmare on Elm Street",
+    "year": 1984,
+    "dateWatched": 8,
+    "imdbId": "tt0087800"
+  },
+  {
+    "name": "Freddy vs Jason",
+    "year": 2003,
+    "dateWatched": 8,
+    "imdbId": "tt0329101"
   }
 ]
