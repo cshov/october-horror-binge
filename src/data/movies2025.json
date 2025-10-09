@@ -322,5 +322,23 @@
     "year": 2003,
     "dateWatched": 8,
     "imdbId": "tt0329101"
+  },
+  {
+    "name": "Prom Night",
+    "year": 1980,
+    "dateWatched": 9,
+    "imdbId": "tt0081383"
+  },
+  {
+    "name": "Hello Mary Lou: Prom Night II",
+    "year": 1987,
+    "dateWatched": 9,
+    "imdbId": "tt0093176"
+  },
+  {
+    "name": "Mandy",
+    "year": 2018,
+    "dateWatched": 9,
+    "imdbId": "tt6998518"
   }
 ]
