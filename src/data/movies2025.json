@@ -382,5 +382,23 @@
     "year": 2025,
     "dateWatched": 10,
     "imdbId": "tt32299316"
+  },
+  {
+    "name": "Trick 'r Treat",
+    "year": 2007,
+    "dateWatched": 10,
+    "imdbId": "tt0862856"
+  },
+  {
+    "name": "House of Wax",
+    "year": 1953,
+    "dateWatched": 10,
+    "imdbId": "tt0045888"
+  },
+  {
+    "name": "Poltergeist",
+    "year": 1982,
+    "dateWatched": 10,
+    "imdbId": "tt0084516"
   }
 ]
