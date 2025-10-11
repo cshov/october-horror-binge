@@ -400,5 +400,23 @@
     "year": 1982,
     "dateWatched": 10,
     "imdbId": "tt0084516"
+  },
+  {
+    "name": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+    "year": 1985,
+    "dateWatched": 10,
+    "imdbId": "tt0089686"
+  },
+  {
+    "name": "A Nightmare on Elm Street 3: Dream Warriors",
+    "year": 1987,
+    "dateWatched": 10,
+    "imdbId": "tt0093629"
+  },
+  {
+    "name": "A Nightmare on Elm Street 4: The Dream Master",
+    "year": 1988,
+    "dateWatched": 10,
+    "imdbId": "tt0095742"
   }
 ]
