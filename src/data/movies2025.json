@@ -418,5 +418,35 @@
     "year": 1988,
     "dateWatched": 10,
     "imdbId": "tt0095742"
+  },
+  {
+    "name": "30 Days of Night",
+    "year": 2007,
+    "dateWatched": 11,
+    "imdbId": "tt0389722"
+  },
+  {
+    "name": "The Menu",
+    "year": 2022,
+    "dateWatched": 11,
+    "imdbId": "tt9764362"
+  },
+  {
+    "name": "Day Shift",
+    "year": 2022,
+    "dateWatched": 11,
+    "imdbId": "tt13314558"
+  },
+  {
+    "name": "The Babysitter",
+    "year": 2017,
+    "dateWatched": 11,
+    "imdbId": "tt4225622"
+  },
+  {
+    "name": "The Babysitter: Killer Queen",
+    "year": 2020,
+    "dateWatched": 11,
+    "imdbId": "tt11024272"
   }
 ]
