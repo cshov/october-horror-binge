@@ -448,5 +448,23 @@
     "year": 2020,
     "dateWatched": 11,
     "imdbId": "tt11024272"
+  },
+  {
+    "name": "Bring Her Back",
+    "year": 2025,
+    "dateWatched": 11,
+    "imdbId": "tt32246771"
+  },
+  {
+    "name": "Friday the 13th",
+    "year": 1980,
+    "dateWatched": 12,
+    "imdbId": "tt0080761"
+  },
+  {
+    "name": "Friday the 13th Part 2",
+    "year": 1981,
+    "dateWatched": 12,
+    "imdbId": "tt0082418"
   }
 ]
