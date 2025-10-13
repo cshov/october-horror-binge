@@ -502,5 +502,23 @@
     "year": 1989,
     "dateWatched": 12,
     "imdbId": "tt0097388"
+  },
+  {
+    "name": "Jason Goes To Hell: The Final Friday",
+    "year": 1993,
+    "dateWatched": 13,
+    "imdbId": "tt0107254"
+  },
+  {
+    "name": "Jason X",
+    "year": 2001,
+    "dateWatched": 13,
+    "imdbId": "tt0211443"
+  },
+  {
+    "name": "Dawn of the Dead",
+    "year": 1978,
+    "dateWatched": 13,
+    "imdbId": "tt0077402"
   }
 ]
