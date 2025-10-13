@@ -466,5 +466,41 @@
     "year": 1981,
     "dateWatched": 12,
     "imdbId": "tt0082418"
+  },
+  {
+    "name": "Friday the 13th Part III",
+    "year": 1982,
+    "dateWatched": 12,
+    "imdbId": "tt0083972"
+  },
+  {
+    "name": "Friday the 13th: The Final Chapter",
+    "year": 1984,
+    "dateWatched": 12,
+    "imdbId": "tt0087298"
+  },
+  {
+    "name": "Friday the 13th: A New Beginning",
+    "year": 1985,
+    "dateWatched": 12,
+    "imdbId": "tt0089173"
+  },
+  {
+    "name": "Friday the 13th Part VI: Jason Lives",
+    "year": 1986,
+    "dateWatched": 12,
+    "imdbId": "tt0091080"
+  },
+  {
+    "name": "Friday the 13th Part VII: The New Blood",
+    "year": 1988,
+    "dateWatched": 12,
+    "imdbId": "tt0095179"
+  },
+  {
+    "name": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "year": 1989,
+    "dateWatched": 12,
+    "imdbId": "tt0097388"
   }
 ]
