@@ -520,5 +520,23 @@
     "year": 1978,
     "dateWatched": 13,
     "imdbId": "tt0077402"
+  },
+  {
+    "name": "Day of the Dead",
+    "year": 1985,
+    "dateWatched": 17,
+    "imdbId": "tt0088993"
+  },
+  {
+    "name": "Dawn of the Dead",
+    "year": 2004,
+    "dateWatched": 13,
+    "imdbId": "tt0363547"
+  },
+  {
+    "name": "Day of the Dead",
+    "year": 2008,
+    "dateWatched": 13,
+    "imdbId": "tt0489018"
   }
 ]
