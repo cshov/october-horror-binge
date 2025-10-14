@@ -544,5 +544,17 @@
     "year": 1986,
     "dateWatched": 13,
     "imdbId": "tt0090837"
+  },
+  {
+    "name": "Shaun of the Dead",
+    "year": 2004,
+    "dateWatched": 14,
+    "imdbId": "tt0365748"
+  },
+  {
+    "name": "Leprechaun",
+    "year": 1993,
+    "dateWatched": 14,
+    "imdbId": "tt0107387"
   }
 ]
