@@ -640,5 +640,17 @@
     "year": 1989,
     "dateWatched": 15,
     "imdbId": "tt0096119"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "year": 1990,
+    "dateWatched": 15,
+    "imdbId": "tt0100258"
+  },
+  {
+    "name": "Pieces",
+    "year": 1982,
+    "dateWatched": 15,
+    "imdbId": "tt0082748"
   }
 ]
