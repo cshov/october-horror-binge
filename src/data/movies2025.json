@@ -652,5 +652,23 @@
     "year": 1982,
     "dateWatched": 15,
     "imdbId": "tt0082748"
+  },
+  {
+    "name": "Deep Red",
+    "year": 1975,
+    "dateWatched": 16,
+    "imdbId": "tt0073582"
+  },
+  {
+    "name": "Haunt",
+    "year": 2019,
+    "dateWatched": 16,
+    "imdbId": "tt6535880"
+  },
+  {
+    "name": "Intruder",
+    "year": 1989,
+    "dateWatched": 16,
+    "imdbId": "tt0095379"
   }
 ]
