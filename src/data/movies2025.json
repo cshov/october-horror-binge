@@ -682,5 +682,23 @@
     "year": 2023,
     "dateWatched": 16,
     "imdbId": "tt14966898"
+  },
+  {
+    "name": "The Exorcist",
+    "year": 1973,
+    "dateWatched": 16,
+    "imdbId": "tt0070047"
+  },
+  {
+    "name": "The Witch",
+    "year": 2015,
+    "dateWatched": 16,
+    "imdbId": "tt4263482"
+  },
+  {
+    "name": "Hereditary",
+    "year": 2018,
+    "dateWatched": 16,
+    "imdbId": "tt7784604"
   }
 ]
