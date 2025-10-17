@@ -712,5 +712,17 @@
     "year": 2007,
     "dateWatched": 17,
     "imdbId": "tt0884328"
+  },
+  {
+    "name": "Fright Night",
+    "year": 1985,
+    "dateWatched": 17,
+    "imdbId": "tt0089175"
+  },
+  {
+    "name": "An American Werewolf in London",
+    "year": 1981,
+    "dateWatched": 17,
+    "imdbId": "tt0082010"
   }
 ]
