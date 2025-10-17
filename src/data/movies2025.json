@@ -700,5 +700,17 @@
     "year": 2018,
     "dateWatched": 16,
     "imdbId": "tt7784604"
+  },
+  {
+    "name": "The Exorcist 3",
+    "year": 1990,
+    "dateWatched": 17,
+    "imdbId": "tt0099528"
+  },
+  {
+    "name": "The Mist",
+    "year": 2007,
+    "dateWatched": 17,
+    "imdbId": "tt0884328"
   }
 ]
