@@ -742,5 +742,23 @@
     "year": 1998,
     "dateWatched": 17,
     "imdbId": "tt0130018"
+  },
+  {
+    "name": "The Cabin in the Woods",
+    "year": 2011,
+    "dateWatched": 18,
+    "imdbId": "tt1259521"
+  },
+  {
+    "name": "Hatchet",
+    "year": 2006,
+    "dateWatched": 18,
+    "imdbId": "tt0422401"
+  },
+  {
+    "name": "Hatchet 2",
+    "year": 2010,
+    "dateWatched": 18,
+    "imdbId": "tt1270835"
   }
 ]
