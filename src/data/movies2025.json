@@ -850,5 +850,23 @@
     "year": 2003,
     "dateWatched": 20,
     "imdbId": "tt0222812"
+  },
+  {
+    "name": "Texas Chainsaw Massacre 2",
+    "year": 1986,
+    "dateWatched": 20,
+    "imdbId": "tt0092076"
+  },
+  {
+    "name": "Nightbreed",
+    "year": 1990,
+    "dateWatched": 20,
+    "imdbId": "tt0100260"
+  },
+  {
+    "name": "Rabid",
+    "year": 1977,
+    "dateWatched": 20,
+    "imdbId": "tt0076590"
   }
 ]
