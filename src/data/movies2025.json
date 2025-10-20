@@ -832,5 +832,23 @@
     "year": 1986,
     "dateWatched": 19,
     "imdbId": "tt0091064"
+  },
+  {
+    "name": "Re-Animator",
+    "year": 1985,
+    "dateWatched": 20,
+    "imdbId": "tt0089885"
+  },
+  {
+    "name": "Bride of Re-Animator",
+    "year": 1990,
+    "dateWatched": 20,
+    "imdbId": "tt0099180"
+  },
+  {
+    "name": "Beyond Re-Animator",
+    "year": 2003,
+    "dateWatched": 20,
+    "imdbId": "tt0222812"
   }
 ]
