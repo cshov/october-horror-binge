@@ -868,5 +868,17 @@
     "year": 1977,
     "dateWatched": 20,
     "imdbId": "tt0076590"
+  },
+  {
+    "name": "Tucker & Dale Vs Evil",
+    "year": 2010,
+    "dateWatched": 20,
+    "imdbId": "tt1465522"
+  },
+  {
+    "name": "The Gate",
+    "year": 1987,
+    "dateWatched": 20,
+    "imdbId": "tt0093075"
   }
 ]
