@@ -880,5 +880,29 @@
     "year": 1987,
     "dateWatched": 20,
     "imdbId": "tt0093075"
+  },
+  {
+    "name": "Tremors",
+    "year": 1990,
+    "dateWatched": 20,
+    "imdbId": "tt0100814"
+  },
+  {
+    "name": "The Invisible Man",
+    "year": 1933,
+    "dateWatched": 21,
+    "imdbId": "tt0024184"
+  },
+  {
+    "name": "The Invisible Man",
+    "year": 2020,
+    "dateWatched": 21,
+    "imdbId": "tt1051906"
+  },
+  {
+    "name": "Puppet Master",
+    "year": 1989,
+    "dateWatched": 21,
+    "imdbId": "tt0098143"
   }
 ]
