@@ -904,5 +904,23 @@
     "year": 1989,
     "dateWatched": 21,
     "imdbId": "tt0098143"
+  },
+  {
+    "name": "Deathgasm",
+    "year": 2015,
+    "dateWatched": 21,
+    "imdbId": "tt3705412"
+  },
+  {
+    "name": "Hellraiser",
+    "year": 1987,
+    "dateWatched": 21,
+    "imdbId": "tt0093177"
+  },
+  {
+    "name": "Hellbound: Hellraiser 2",
+    "year": 1988,
+    "dateWatched": 21,
+    "imdbId": "tt0095294"
   }
 ]
