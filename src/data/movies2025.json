@@ -922,5 +922,17 @@
     "year": 1988,
     "dateWatched": 21,
     "imdbId": "tt0095294"
+  },
+  {
+    "name": "Jennifer's Body",
+    "year": 2009,
+    "dateWatched": 21,
+    "imdbId": "tt1131734"
+  },
+  {
+    "name": "John Carpenter's Vampires",
+    "year": 1998,
+    "dateWatched": 21,
+    "imdbId": "tt0120877"
   }
 ]
