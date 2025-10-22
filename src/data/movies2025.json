@@ -958,5 +958,23 @@
     "year": 1992,
     "dateWatched": 22,
     "imdbId": "tt0106308"
+  },
+  {
+    "name": "Evil Dead",
+    "year": 2013,
+    "dateWatched": 22,
+    "imdbId": "tt1288558"
+  },
+  {
+    "name": "Evil Dead Rise",
+    "year": 2023,
+    "dateWatched": 22,
+    "imdbId": "tt13345606"
+  },
+  {
+    "name": "Talk To Me",
+    "year": 2022,
+    "dateWatched": 22,
+    "imdbId": "tt10638522"
   }
 ]
