@@ -976,5 +976,17 @@
     "year": 2022,
     "dateWatched": 22,
     "imdbId": "tt10638522"
+  },
+  {
+    "name": "Friday the 13th",
+    "year": 2009,
+    "dateWatched": 22,
+    "imdbId": "tt0758746"
+  },
+  {
+    "name": "Nightmare on Elm Street",
+    "year": 2010,
+    "dateWatched": 22,
+    "imdbId": "tt1179056"
   }
 ]
