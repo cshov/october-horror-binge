@@ -994,5 +994,23 @@
     "year": 1984,
     "dateWatched": 22,
     "imdbId": "tt0087050"
+  },
+  {
+    "name": "Misery",
+    "year": 1990,
+    "dateWatched": 23,
+    "imdbId": "tt0100157"
+  },
+  {
+    "name": "Get Out",
+    "year": 2017,
+    "dateWatched": 23,
+    "imdbId": "tt5052448"
+  },
+  {
+    "name": "House on Haunted Hill",
+    "year": 1999,
+    "dateWatched": 23,
+    "imdbId": "tt0185371"
   }
 ]
