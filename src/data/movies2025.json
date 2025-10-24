@@ -1042,5 +1042,23 @@
     "year": 1986,
     "dateWatched": 23,
     "imdbId": "tt0091499"
+  },
+  {
+    "name": "Planet Terror",
+    "year": 2007,
+    "dateWatched": 24,
+    "imdbId": "tt1077258"
+  },
+  {
+    "name": "Death Proof",
+    "year": 2007,
+    "dateWatched": 24,
+    "imdbId": "tt1028528"
+  },
+  {
+    "name": "From Dusk Till Dawn",
+    "year": 1996,
+    "dateWatched": 24,
+    "imdbId": "tt0116367"
   }
 ]
