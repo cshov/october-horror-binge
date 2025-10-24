@@ -1012,5 +1012,35 @@
     "year": 1999,
     "dateWatched": 23,
     "imdbId": "tt0185371"
+  },
+  {
+    "name": "The Grudge",
+    "year": 2004,
+    "dateWatched": 23,
+    "imdbId": "tt0391198"
+  },
+  {
+    "name": "Saw",
+    "year": 2004,
+    "dateWatched": 23,
+    "imdbId": "tt0387564"
+  },
+  {
+    "name": "Saw 2",
+    "year": 2005,
+    "dateWatched": 23,
+    "imdbId": "tt0432348"
+  },
+  {
+    "name": "Saw 3",
+    "year": 2006,
+    "dateWatched": 23,
+    "imdbId": "tt0489270"
+  },
+  {
+    "name": "Maximum Overdrive",
+    "year": 1986,
+    "dateWatched": 23,
+    "imdbId": "tt0091499"
   }
 ]
