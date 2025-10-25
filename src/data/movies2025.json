@@ -1084,5 +1084,29 @@
     "year": 1995,
     "dateWatched": 24,
     "imdbId": "tt0113449"
+  },
+  {
+    "name": "Beetlejuice",
+    "year": 1988,
+    "dateWatched": 25,
+    "imdbId": "tt0094721"
+  },
+  {
+    "name": "Beetlejuice, Beetlejuice",
+    "year": 2024,
+    "dateWatched": 25,
+    "imdbId": "tt2049403"
+  },
+  {
+    "name": "The Shining",
+    "year": 1980,
+    "dateWatched": 25,
+    "imdbId": "tt0081505"
+  },
+  {
+    "name": "Lake Placid",
+    "year": 1999,
+    "dateWatched": 25,
+    "imdbId": "tt0139414"
   }
 ]
