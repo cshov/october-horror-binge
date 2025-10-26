@@ -1132,5 +1132,23 @@
     "year": 1996,
     "dateWatched": 26,
     "imdbId": "tt0115963"
+  },
+  {
+    "name": "Christine",
+    "year": 1983,
+    "dateWatched": 26,
+    "imdbId": "tt0085333"
+  },
+  {
+    "name": "Cannibal Holocaust",
+    "year": 1980,
+    "dateWatched": 26,
+    "imdbId": "tt0078935"
+  },
+  {
+    "name": "Scare Package",
+    "year": 2019,
+    "dateWatched": 26,
+    "imdbId": "tt7521214"
   }
 ]
