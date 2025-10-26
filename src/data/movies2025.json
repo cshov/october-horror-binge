@@ -1114,5 +1114,23 @@
     "year": 1960,
     "dateWatched": 25,
     "imdbId": "tt0053719"
+  },
+  {
+    "name": "Hell Fest",
+    "year": 2018,
+    "dateWatched": 26,
+    "imdbId": "tt1999890"
+  },
+  {
+    "name": "The Fog",
+    "year": 1980,
+    "dateWatched": 26,
+    "imdbId": "tt0080749"
+  },
+  {
+    "name": "The Craft",
+    "year": 1996,
+    "dateWatched": 26,
+    "imdbId": "tt0115963"
   }
 ]
