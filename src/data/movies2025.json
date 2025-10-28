@@ -1198,5 +1198,17 @@
     "year": 2021,
     "dateWatched": 27,
     "imdbId": "tt7144666"
+  },
+  {
+    "name": "Silent Hill",
+    "year": 2006,
+    "dateWatched": 28,
+    "imdbId": "tt0384537"
+  },
+  {
+    "name": "Halloween",
+    "year": 1978,
+    "dateWatched": 28,
+    "imdbId": "tt0077651"
   }
 ]
