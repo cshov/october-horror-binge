@@ -1222,5 +1222,23 @@
     "year": 1988,
     "dateWatched": 28,
     "imdbId": "tt0095271"
+  },
+  {
+    "name": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "dateWatched": 28,
+    "imdbId": "tt0097474"
+  },
+  {
+    "name": "Halloween: The Curse of Michael Myers",
+    "year": 1995,
+    "dateWatched": 28,
+    "imdbId": "tt0113253"
+  },
+  {
+    "name": "Halloween H20: 20 Years Later",
+    "year": 1998,
+    "dateWatched": 28,
+    "imdbId": "tt0120694"
   }
 ]
