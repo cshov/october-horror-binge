@@ -1210,5 +1210,17 @@
     "year": 1978,
     "dateWatched": 28,
     "imdbId": "tt0077651"
+  },
+  {
+    "name": "Halloween 2",
+    "year": 1981,
+    "dateWatched": 28,
+    "imdbId": "tt0082495"
+  },
+  {
+    "name": "Halloween 4: The Return of Michael Myers",
+    "year": 1988,
+    "dateWatched": 28,
+    "imdbId": "tt0095271"
   }
 ]
