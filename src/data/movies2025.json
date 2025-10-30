@@ -1294,5 +1294,23 @@
     "year": 1978,
     "dateWatched": 29,
     "imdbId": "tt0077745"
+  },
+  {
+    "name": "Ghostbusters",
+    "year": 1984,
+    "dateWatched": 30,
+    "imdbId": "tt0087332"
+  },
+  {
+    "name": "Ghostbusters 2",
+    "year": 1989,
+    "dateWatched": 30,
+    "imdbId": "tt0097428"
+  },
+  {
+    "name": "American Psycho",
+    "year": 2000,
+    "dateWatched": 30,
+    "imdbId": "tt0144084"
   }
 ]
