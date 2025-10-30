@@ -1258,5 +1258,35 @@
     "year": 2014,
     "dateWatched": 29,
     "imdbId": "tt3235888"
+  },
+  {
+    "name": "X",
+    "year": 2022,
+    "dateWatched": 29,
+    "imdbId": "tt13560574"
+  },
+  {
+    "name": "Pearl",
+    "year": 2022,
+    "dateWatched": 29,
+    "imdbId": "tt18925334"
+  },
+  {
+    "name": "MaXXXine",
+    "year": 2024,
+    "dateWatched": 29,
+    "imdbId": "tt22048412"
+  },
+  {
+    "name": "The Sixth Sense",
+    "year": 1999,
+    "dateWatched": 29,
+    "imdbId": "tt0167404"
+  },
+  {
+    "name": "Scanners",
+    "year": 1981,
+    "dateWatched": 29,
+    "imdbId": "tt0081455"
   }
 ]
