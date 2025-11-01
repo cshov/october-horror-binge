@@ -1342,5 +1342,17 @@
     "year": 2000,
     "dateWatched": 30,
     "imdbId": "tt0210070"
+  },
+  {
+    "name": "Cube",
+    "year": 1997,
+    "dateWatched": 31,
+    "imdbId": "tt0123755"
+  },
+  {
+    "name": "Ghosts of Mars",
+    "year": 2001,
+    "dateWatched": 31,
+    "imdbId": "tt0228333"
   }
 ]
