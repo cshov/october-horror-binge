@@ -154,5 +154,17 @@
     "year": 1997,
     "dateWatched": 5,
     "imdbId": "tt0120082"
+  },
+  {
+    "name": "Scream 3",
+    "year": 2000,
+    "dateWatched": 5,
+    "imdbId": "tt0134084"
+  },
+  {
+    "name": "Scream 4",
+    "year": 2011,
+    "dateWatched": 5,
+    "imdbId": "tt1262416"
   }
 ]
