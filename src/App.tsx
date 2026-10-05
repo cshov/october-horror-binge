@@ -6,6 +6,7 @@ import Movies2022 from "./pages/Movies2022/Movies2022";
 import Movies2023 from "./pages/Movies2023/Movies2023";
 import Movies2024 from "./pages/Movies2024/Movies2024";
 import Movies2025 from "./pages/Movies2025/Movies2025";
+import Movies2026 from "./pages/Movies2026/Movies2026";
 import MoviesPage from './pages/MoviesPage/MoviesPage';
 import StatsPage from './pages/StatsPage/StatsPage';
 import RatingsPage from "./pages/RatingsPage/RatingsPage";
@@ -21,6 +22,7 @@ function App() {
           </header>
             <div className="navMenu">
                 <Link to="/">Home</Link>
+                <Link to="/2025-list">2025</Link>
                 <Link to="/2024-list">2024</Link>
                 <Link to="/2023-list">2023</Link>
                 <Link to="/2022-list">2022</Link>
@@ -47,9 +49,12 @@ function App() {
                 <Route path="/2024-list">
                     <Movies2024></Movies2024>
                 </Route>
+                <Route path="/2025-list">
+                    <Movies2025></Movies2025>
+                </Route>
 
                 <Route path="/">
-                    <Movies2025></Movies2025>
+                    <Movies2026></Movies2026>
                 </Route>
             </Switch>
         </div>
