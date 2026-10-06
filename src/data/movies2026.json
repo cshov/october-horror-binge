@@ -178,5 +178,17 @@
     "year": 2023,
     "dateWatched": 5,
     "imdbId": "tt17663992"
+  },
+  {
+    "name": "Scream 7",
+    "year": 2026,
+    "dateWatched": 6,
+    "imdbId": "tt27047903"
+  },
+  {
+    "name": "Terrifier",
+    "year": 2016,
+    "dateWatched": 6,
+    "imdbId": "tt4281724"
   }
 ]
