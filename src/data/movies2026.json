@@ -166,5 +166,17 @@
     "year": 2011,
     "dateWatched": 5,
     "imdbId": "tt1262416"
+  },
+  {
+    "name": "Scream 5",
+    "year": 2022,
+    "dateWatched": 5,
+    "imdbId": "tt11245972"
+  },
+  {
+    "name": "Scream 6",
+    "year": 2023,
+    "dateWatched": 5,
+    "imdbId": "tt17663992"
   }
 ]
