@@ -226,5 +226,23 @@
     "year": 1980,
     "dateWatched": 6,
     "imdbId": "tt0081383"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "year": 1968,
+    "dateWatched": 7,
+    "imdbId": "tt0063350"
+  },
+  {
+    "name": "Dawn of the Dead",
+    "year": 1978,
+    "dateWatched": 7,
+    "imdbId": "tt0077402"
+  },
+  {
+    "name": "Day of the Dead",
+    "year": 1985,
+    "dateWatched": 7,
+    "imdbId": "tt0088993"
   }
 ]
