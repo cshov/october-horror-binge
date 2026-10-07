@@ -208,5 +208,23 @@
     "year": 1997,
     "dateWatched": 6,
     "imdbId": "tt0120524"
+  },
+  {
+    "name": "Slumber Party Massacre",
+    "year": 1982,
+    "dateWatched": 6,
+    "imdbId": "tt0084695"
+  },
+  {
+    "name": "Slumber Party Massacre 2",
+    "year": 1987,
+    "dateWatched": 6,
+    "imdbId": "tt0093996"
+  },
+  {
+    "name": "Prom Night",
+    "year": 1980,
+    "dateWatched": 6,
+    "imdbId": "tt0081383"
   }
 ]
