@@ -244,5 +244,17 @@
     "year": 1985,
     "dateWatched": 7,
     "imdbId": "tt0088993"
+  },
+  {
+    "name": "Land of the Dead",
+    "year": 2005,
+    "dateWatched": 7,
+    "imdbId": "tt0418819"
+  },
+  {
+    "name": "Night of the Living Dead",
+    "year": 1990,
+    "dateWatched": 7,
+    "imdbId": "tt0100258"
   }
 ]
