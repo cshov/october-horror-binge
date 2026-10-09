@@ -310,5 +310,17 @@
     "year": 1991,
     "dateWatched": 8,
     "imdbId": "tt0105121"
+  },
+  {
+    "name": "Friday the 13th",
+    "year": 1980,
+    "dateWatched": 9,
+    "imdbId": "tt0080761"
+  },
+  {
+    "name": "Friday the 13th",
+    "year": 2009,
+    "dateWatched": 9,
+    "imdbId": "tt0758746"
   }
 ]
