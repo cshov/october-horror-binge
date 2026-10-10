@@ -340,5 +340,17 @@
     "year": 2001,
     "dateWatched": 9,
     "imdbId": "tt0228333"
+  },
+  {
+    "name": "The Fly",
+    "year": 1986,
+    "dateWatched": 10,
+    "imdbId": "tt0091064"
+  },
+  {
+    "name": "Lost Boys",
+    "year": 1987,
+    "dateWatched": 10,
+    "imdbId": "tt0093437"
   }
 ]
