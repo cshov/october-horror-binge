@@ -322,5 +322,23 @@
     "year": 2009,
     "dateWatched": 9,
     "imdbId": "tt0758746"
+  },
+  {
+    "name": "Friday the 13th Part VIII: Jason Takes Manhattan",
+    "year": 1989,
+    "dateWatched": 9,
+    "imdbId": "tt0097388"
+  },
+  {
+    "name": "From Dusk Till Dawn",
+    "year": 1996,
+    "dateWatched": 9,
+    "imdbId": "tt0116367"
+  },
+  {
+    "name": "Ghosts of Mars",
+    "year": 2001,
+    "dateWatched": 9,
+    "imdbId": "tt0228333"
   }
 ]
