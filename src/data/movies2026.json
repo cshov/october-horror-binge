@@ -352,5 +352,29 @@
     "year": 1987,
     "dateWatched": 10,
     "imdbId": "tt0093437"
+  },
+  {
+    "name": "House of Wax",
+    "year": 1953,
+    "dateWatched": 10,
+    "imdbId": "tt0045888"
+  },
+  {
+    "name": "The Platform",
+    "year": 2019,
+    "dateWatched": 10,
+    "imdbId": "tt8228288"
+  },
+  {
+    "name": "Henry: Portrait of a Serial Killer",
+    "year": 1986,
+    "dateWatched": 11,
+    "imdbId": "tt0099763"
+  },
+  {
+    "name": "Lost Boys: The Tribe",
+    "year": 2008,
+    "dateWatched": 11,
+    "imdbId": "tt1031254"
   }
 ]
