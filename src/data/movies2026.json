@@ -412,5 +412,23 @@
     "year": 1977,
     "dateWatched": 11,
     "imdbId": "tt0077681"
+  },
+  {
+    "name": "Renfield",
+    "year": 2023,
+    "dateWatched": 12,
+    "imdbId": "tt11358390"
+  },
+  {
+    "name": "The Purge",
+    "year": 2013,
+    "dateWatched": 12,
+    "imdbId": "tt2184339"
+  },
+  {
+    "name": "The Purge: Anarchy",
+    "year": 2014,
+    "dateWatched": 12,
+    "imdbId": "tt2975578"
   }
 ]
