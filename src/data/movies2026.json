@@ -484,5 +484,17 @@
     "year": 1990,
     "dateWatched": 13,
     "imdbId": "tt0100107"
+  },
+  {
+    "name": "Maniac Cop 3: Badge of Silence",
+    "year": 1992,
+    "dateWatched": 13,
+    "imdbId": "tt0104808"
+  },
+  {
+    "name": "Dawn of the Dead",
+    "year": 2004,
+    "dateWatched": 13,
+    "imdbId": "tt0363547"
   }
 ]
