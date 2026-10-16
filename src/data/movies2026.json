@@ -538,5 +538,35 @@
     "year": 2020,
     "dateWatched": 14,
     "imdbId": "tt9102084"
+  },
+  {
+    "name": "Psycho",
+    "year": 1960,
+    "dateWatched": 15,
+    "imdbId": "tt0054215"
+  },
+  {
+    "name": "Barbarian",
+    "year": 2022,
+    "dateWatched": 15,
+    "imdbId": "tt15791034"
+  },
+  {
+    "name": "Weapons",
+    "year": 2025,
+    "dateWatched": 15,
+    "imdbId": "tt26581740"
+  },
+  {
+    "name": "Resident Evil",
+    "year": 2026,
+    "dateWatched": 15,
+    "imdbId": "tt35538033"
+  },
+  {
+    "name": "Fright Night",
+    "year": 1985,
+    "dateWatched": 15,
+    "imdbId": "tt0089175"
   }
 ]
