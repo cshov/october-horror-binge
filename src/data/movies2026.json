@@ -574,5 +574,29 @@
     "year": 2026,
     "dateWatched": 15,
     "imdbId": "tt31728330"
+  },
+  {
+    "name": "Hell Fest",
+    "year": 2018,
+    "dateWatched": 16,
+    "imdbId": "tt1999890"
+  },
+  {
+    "name": "Haunt",
+    "year": 2019,
+    "dateWatched": 16,
+    "imdbId": "tt6535880"
+  },
+  {
+    "name": "House",
+    "year": 1985,
+    "dateWatched": 16,
+    "imdbId": "tt0091223"
+  },
+  {
+    "name": "House II: The Second Story",
+    "year": 1987,
+    "dateWatched": 16,
+    "imdbId": "tt0093220"
   }
 ]
