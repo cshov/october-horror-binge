@@ -598,5 +598,17 @@
     "year": 1987,
     "dateWatched": 16,
     "imdbId": "tt0093220"
+  },
+  {
+    "name": "I Know What You Did Last Summer",
+    "year": 1997,
+    "dateWatched": 16,
+    "imdbId": "tt0119345"
+  },
+  {
+    "name": "I Still Know What You Did Last Summer",
+    "year": 1998,
+    "dateWatched": 16,
+    "imdbId": "tt0130018"
   }
 ]
