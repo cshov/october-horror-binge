@@ -652,5 +652,29 @@
     "year": 2000,
     "dateWatched": 17,
     "imdbId": "tt0209095"
+  },
+  {
+    "name": "Frankenhooker",
+    "year": 1990,
+    "dateWatched": 18,
+    "imdbId": "tt0099611"
+  },
+  {
+    "name": "Vicious Fun",
+    "year": 2020,
+    "dateWatched": 18,
+    "imdbId": "tt11778118"
+  },
+  {
+    "name": "Freddy's Dead: The Final Nightmare",
+    "year": 1991,
+    "dateWatched": 18,
+    "imdbId": "tt0101917"
+  },
+  {
+    "name": "Get Out",
+    "year": 2017,
+    "dateWatched": 18,
+    "imdbId": "tt5052448"
   }
 ]
