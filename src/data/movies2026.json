@@ -616,5 +616,41 @@
     "year": 2009,
     "dateWatched": 16,
     "imdbId": "tt1131734"
+  },
+  {
+    "name": "Last House on the Left",
+    "year": 1972,
+    "dateWatched": 17,
+    "imdbId": "tt0068833"
+  },
+  {
+    "name": "Leprechaun",
+    "year": 1993,
+    "dateWatched": 17,
+    "imdbId": "tt0107387"
+  },
+  {
+    "name": "Leprechaun 2",
+    "year": 1994,
+    "dateWatched": 17,
+    "imdbId": "tt0110329"
+  },
+  {
+    "name": "Leprechaun 3",
+    "year": 1995,
+    "dateWatched": 17,
+    "imdbId": "tt0113636"
+  },
+  {
+    "name": "Leprechaun 4: In Space",
+    "year": 1996,
+    "dateWatched": 17,
+    "imdbId": "tt0116861"
+  },
+  {
+    "name": "Leprechaun 5: In the Hood",
+    "year": 2000,
+    "dateWatched": 17,
+    "imdbId": "tt0209095"
   }
 ]
