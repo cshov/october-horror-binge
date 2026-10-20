@@ -682,5 +682,47 @@
     "year": 2019,
     "dateWatched": 18,
     "imdbId": "tt6857112"
+  },
+  {
+    "name": "The Devils",
+    "year": 1971,
+    "dateWatched": 18,
+    "imdbId": "tt6tt0066993857112"
+  },
+  {
+    "name": "The Fog",
+    "year": 1980,
+    "dateWatched": 19,
+    "imdbId": "tt0080749"
+  },
+  {
+    "name": "The Gate",
+    "year": 1987,
+    "dateWatched": 19,
+    "imdbId": "tt0093075"
+  },
+  {
+    "name": "The Grudge",
+    "year": 2004,
+    "dateWatched": 19,
+    "imdbId": "tt0391198"
+  },
+  {
+    "name": "Cloverfield",
+    "year": 2008,
+    "dateWatched": 19,
+    "imdbId": "tt1060277"
+  },
+  {
+    "name": "10 Cloverfield Lane",
+    "year": 2016,
+    "dateWatched": 19,
+    "imdbId": "tt1179933"
+  },
+  {
+    "name": "Carrie",
+    "year": 1976,
+    "dateWatched": 19,
+    "imdbId": "tt0074285"
   }
 ]
