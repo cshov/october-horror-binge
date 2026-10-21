@@ -760,5 +760,17 @@
     "year": 2026,
     "dateWatched": 20,
     "imdbId": "tt31170389"
+  },
+  {
+    "name": "An American Werewolf in London",
+    "year": 1981,
+    "dateWatched": 21,
+    "imdbId": "tt0082010"
+  },
+  {
+    "name": "An American Werewolf in London",
+    "year": 2014,
+    "dateWatched": 21,
+    "imdbId": "tt2870612"
   }
 ]
