@@ -850,5 +850,47 @@
     "year": 2019,
     "dateWatched": 23,
     "imdbId": "tt7984734"
+  },
+  {
+    "name": "Noseferatu",
+    "year": 2024,
+    "dateWatched": 23,
+    "imdbId": "tt5040012"
+  },
+  {
+    "name": "Zombeavers",
+    "year": 2014,
+    "dateWatched": 23,
+    "imdbId": "tt2784512"
+  },
+  {
+    "name": "Zombieland",
+    "year": 2009,
+    "dateWatched": 24,
+    "imdbId": "tt1156398"
+  },
+  {
+    "name": "Thir13en Ghosts",
+    "year": 2001,
+    "dateWatched": 24,
+    "imdbId": "tt0245674"
+  },
+  {
+    "name": "Cube",
+    "year": 1997,
+    "dateWatched": 24,
+    "imdbId": "tt0123755"
+  },
+  {
+    "name": "Crawl",
+    "year": 2019,
+    "dateWatched": 24,
+    "imdbId": "tt8364368"
+  },
+  {
+    "name": "Ghost Ship",
+    "year": 2002,
+    "dateWatched": 24,
+    "imdbId": "tt0288477"
   }
 ]
