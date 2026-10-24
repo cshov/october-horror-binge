@@ -778,5 +778,77 @@
     "year": 2025,
     "dateWatched": 21,
     "imdbId": "tt32246771"
+  },
+  {
+    "name": "House on Haunted Hill",
+    "year": 1999,
+    "dateWatched": 21,
+    "imdbId": "tt0185371"
+  },
+  {
+    "name": "Final Destination",
+    "year": 2000,
+    "dateWatched": 21,
+    "imdbId": "tt0195714"
+  },
+  {
+    "name": "House of Wax",
+    "year": 2005,
+    "dateWatched": 21,
+    "imdbId": "tt0397065"
+  },
+  {
+    "name": "In a Violent Nature",
+    "year": 2024,
+    "dateWatched": 21,
+    "imdbId": "tt0082307"
+  },
+  {
+    "name": "Frankenstein",
+    "year": 1931,
+    "dateWatched": 22,
+    "imdbId": "tt0021884"
+  },
+  {
+    "name": "Bride of Frankenstein",
+    "year": 1935,
+    "dateWatched": 22,
+    "imdbId": "tt0026138"
+  },
+  {
+    "name": "The Thing",
+    "year": 1982,
+    "dateWatched": 23,
+    "imdbId": "tt0084787"
+  },
+  {
+    "name": "The Thing",
+    "year": 2011,
+    "dateWatched": 23,
+    "imdbId": "tt0905372"
+  },
+  {
+    "name": "Tourist Trap",
+    "year": 1979,
+    "dateWatched": 23,
+    "imdbId": "tt0080040"
+  },
+  {
+    "name": "Wicker Man",
+    "year": 1973,
+    "dateWatched": 23,
+    "imdbId": "tt0070917"
+  },
+  {
+    "name": "The Witch",
+    "year": 2015,
+    "dateWatched": 23,
+    "imdbId": "tt4263482"
+  },
+  {
+    "name": "The Lighthouse",
+    "year": 2019,
+    "dateWatched": 23,
+    "imdbId": "tt7984734"
   }
 ]
