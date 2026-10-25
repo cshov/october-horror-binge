@@ -892,5 +892,29 @@
     "year": 2002,
     "dateWatched": 24,
     "imdbId": "tt0288477"
+  },
+  {
+    "name": "Possession",
+    "year": 1981,
+    "dateWatched": 24,
+    "imdbId": "tt0082933"
+  },
+  {
+    "name": "Satanic Panic",
+    "year": 2019,
+    "dateWatched": 25,
+    "imdbId": "tt8510350"
+  },
+  {
+    "name": "Texas Chainsaw Massacre",
+    "year": 1974,
+    "dateWatched": 25,
+    "imdbId": "tt0072271"
+  },
+  {
+    "name": "Texas Chainsaw Massacre 2",
+    "year": 1986,
+    "dateWatched": 25,
+    "imdbId": "tt0092076"
   }
 ]
