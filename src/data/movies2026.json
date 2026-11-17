@@ -1054,5 +1054,101 @@
     "year": 2011,
     "dateWatched": 29,
     "imdbId": "tt1865567"
+  },
+  {
+    "name": "Wrong Turn 5: Bloodlines",
+    "year": 2012,
+    "dateWatched": 29,
+    "imdbId": "tt2375779"
+  },
+  {
+    "name": "Wrong Turn 6: Last Resort",
+    "year": 2014,
+    "dateWatched": 29,
+    "imdbId": "tt3612032"
+  },
+  {
+    "name": "Wrong Turn",
+    "year": 2021,
+    "dateWatched": 29,
+    "imdbId": "tt9110170"
+  },
+  {
+    "name": "Zombie Strippers",
+    "year": 2008,
+    "dateWatched": 29,
+    "imdbId": "tt0960890"
+  },
+  {
+    "name": "Lake Placid",
+    "year": 1999,
+    "dateWatched": 30,
+    "imdbId": "tt0139414"
+  },
+  {
+    "name": "Bloodsucking Bastards",
+    "year": 2015,
+    "dateWatched": 30,
+    "imdbId": "tt3487994"
+  },
+  {
+    "name": "Bride of Chucky",
+    "year": 1998,
+    "dateWatched": 30,
+    "imdbId": "tt0144120"
+  },
+  {
+    "name": "Seed of Chucky",
+    "year": 2004,
+    "dateWatched": 30,
+    "imdbId": "tt0387575"
+  },
+  {
+    "name": "Halloween",
+    "year": 1978,
+    "dateWatched": 31,
+    "imdbId": "tt0077651"
+  },
+  {
+    "name": "Halloween 2",
+    "year": 1981,
+    "dateWatched": 31,
+    "imdbId": "tt0082495"
+  },
+  {
+    "name": "Halloween III: Season of the Witch",
+    "year": 1982,
+    "dateWatched": 31,
+    "imdbId": "tt0085636"
+  },
+  {
+    "name": "Halloween 4: The Return of Michael Myers",
+    "year": 1988,
+    "dateWatched": 31,
+    "imdbId": "tt0095271"
+  },
+  {
+    "name": "Halloween 5: The Revenge of Michael Myers",
+    "year": 1989,
+    "dateWatched": 31,
+    "imdbId": "tt0097474"
+  },
+  {
+    "name": "Halloween: The Curse of Michael Myers",
+    "year": 1995,
+    "dateWatched": 31,
+    "imdbId": "tt0113253"
+  },
+  {
+    "name": "Halloween H20: 20 Years Later",
+    "year": 1998,
+    "dateWatched": 31,
+    "imdbId": "tt0120694"
+  },
+  {
+    "name": "Halloween: Resurrection",
+    "year": 2002,
+    "dateWatched": 31,
+    "imdbId": "tt0220506"
   }
 ]
